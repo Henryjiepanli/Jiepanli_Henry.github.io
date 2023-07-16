@@ -21,7 +21,7 @@ Jiepan Li is a Ph.D. student (2020 - now) at State Key Laboratory of Information
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Binary Segmentation: Difference-Aware Decoder(DAD)</div><img src='DAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Binary Segmentation: Difference-Aware Decoder(DAD)</div><img src='images/DAD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)
@@ -34,7 +34,7 @@ Jiepan Li is a Ph.D. student (2020 - now) at State Key Laboratory of Information
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Building Extraction: Uncertainty-Aware Network(UANet)</div><img src='UANet_visual.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Building Extraction: Uncertainty-Aware Network(UANet)</div><img src='images/UANet_visual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building Extraction from Remote Sensing Images via an Uncertainty-Aware Network](https://arxiv.org/abs/2210.15156)
