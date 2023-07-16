@@ -21,27 +21,29 @@ Jiepan Li is a Ph.D. student (2020 - now) at State Key Laboratory of Information
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Difference-Aware Decoder(DAD)</div><img src='DAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Difference-Aware Decoder(DAD)</div><img src='DAD.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)
 
-**Jiepan Li**, Wei He, Hongyan Zhang
+**Jiepan Li**, Wei He, Hongyan Zhang **(Role: First author)**
 
 [**Code**](https://github.com/Henryjiepanli/DAD)
-- A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images. 
+- Introduction: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
+- Key words: Binary segmentation, camouflaged object detection, salient object detection, polyp segmentation, mirror detection.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Uncertainty-Aware Network(UANet)</div><img src='UANet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Uncertainty-Aware Network(UANet)</div><img src='UANet.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Building Extraction from Remote Sensing Images via an Uncertainty-Aware Network](https://arxiv.org/abs/2210.15156)
 
-Wei He, **Jiepan Li**, Weian Cao, Liangpei Zhang, Hongyan Zhang (Corresponding author)
+Wei He, **Jiepan Li**, Weian Cao, Liangpei Zhang, Hongyan Zhang **(Role: Corresponding author)**
 
-[**Code**]([https://github.com/Henryjiepanli/DAD](https://github.com/Henryjiepanli/Uncertainty-aware-Network))
-- In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward UncertaintyAware Network (UANet) to alleviate this problem. 
+[**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
+- Introduction: In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward Uncertainty-Aware Network (UANet) to alleviate this problem.
+- Key words: Remote sensing, building extraction, uncertainty-aware
 </div>
 </div>
 
