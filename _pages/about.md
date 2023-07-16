@@ -29,8 +29,8 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 **Jiepan Li**, Wei He, Hongyan Zhang **(Role: First author)**
 
 [**Code**](https://github.com/Henryjiepanli/DAD)
-- Introduction: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
-- Key words: Binary segmentation, camouflaged object detection, salient object detection, polyp segmentation, mirror detection.
+- **Introduction**: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
+- **Key words**: Binary segmentation, camouflaged object detection, salient object detection, polyp segmentation, mirror detection.
 </div>
 </div>
 
@@ -42,8 +42,8 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 Wei He, **Jiepan Li**, Weinan Cao, Liangpei Zhang, Hongyan Zhang **(Role: Corresponding author)**
 
 [**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
-- Introduction: In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward Uncertainty-Aware Network (UANet) to alleviate this problem.
-- Key words: Remote sensing, building extraction, uncertainty-aware
+- **Introduction**: In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward Uncertainty-Aware Network (UANet) to alleviate this problem.
+- **Key words**: Remote sensing, building extraction, uncertainty-aware
 </div>
 </div>
 
