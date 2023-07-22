@@ -62,7 +62,9 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 **Jiepan Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 
-** Introduction:** A SIFT-based stitching method was adopted to augment the original data set. Subsequently, a DA-ASPP network was trained with CE loss and Online Hard Example Mining (OHEM) strategy. Then the segmentation results were merged with the segmentation results of DeepLab v3. Finally, a post-processing method based on the removal of small holes and test time augmentation (TTA) was used to obtain the final segmentation results.
+- **Introduction:** A SIFT-based stitching method was adopted to augment the original data set. Subsequently, a DA-ASPP network was trained with CE loss and Online Hard Example Mining (OHEM) strategy. Then the segmentation results were merged with the segmentation results of DeepLab v3. Finally, a post-processing method based on the removal of small holes and test time augmentation (TTA) was used to obtain the final segmentation results.
+
+- **Key words:** SAR, Multi-model fusion, OHEM
 
 # 📖 Educations
 - *2020.06 - 2023.07 (now)*, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. 
