@@ -47,6 +47,12 @@ Wei He, **Jiepan Li**, Weinan Cao, Liangpei Zhang, Hongyan Zhang **(Role: Corres
 </div>
 </div>
 
+# 📝Co-authored Publications 
+[Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery](https://arxiv.org/abs/2210.15156)
+
+C. Han,C. Wu, H. Guo , M. Hu. **J. Li**, and H. Chen
+
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2023. (SCI Q3 TOP, IF=4.715)
 
 # 📖 Educations
 - *2020.06 - 2023.07 (now)*, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. 
