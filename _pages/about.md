@@ -48,7 +48,7 @@ Wei He, **Jiepan Li**, Weinan Cao, Liangpei Zhang, Hongyan Zhang **(Role: Corres
 </div>
 
 # 📝Co-authored Publications 
-[Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery](https://arxiv.org/abs/2210.15156)
+[Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560)
 
 C. Han,C. Wu, H. Guo , M. Hu. **J. Li**, and H. Chen
 
