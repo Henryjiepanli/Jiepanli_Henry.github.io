@@ -61,7 +61,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 
 # 🎖 Contests
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [高分辨率SAR图像中近海养殖场分割赛道决赛第六名]([https://arxiv.org/abs/2210.15156](http://www.aircas.cas.cn/dtxw/hzjl/202303/t20230323_6713075.html))
