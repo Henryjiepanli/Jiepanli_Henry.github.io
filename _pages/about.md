@@ -56,8 +56,6 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 # 💻 Application
 <div class='app-box'><div class='app-box-image'><div><div class="badge">1.The large-scale Buliding Extraction Application</div><img src='images/fy.png' alt="sym"></div></div>
-<div class='app-box-text' markdown="1">
-</div>
 </div>
 
 # 🎖 Contests
