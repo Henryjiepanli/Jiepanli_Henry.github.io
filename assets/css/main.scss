@@ -110,6 +110,7 @@
     }
     
     .app-box-text{
+        justify-content: center;
         max-width: 100%;
         order: 1;
     }
@@ -123,7 +124,7 @@
         }
         
         .app-box-text{
-            justify-content: left;
+            justify-content: center;
             padding-left: 2em;
             max-width: 60%;
             order: 2;
