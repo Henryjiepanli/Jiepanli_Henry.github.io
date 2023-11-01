@@ -72,6 +72,9 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 </div>
 
+# 📖Academic Service
+- Journal Reviewer: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+
 # 📖 Educations
 - *2020.06 - 2023.07 (now)*, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. 
 - *2016.09 - 2020.06*, School of Electronic Information, Wuhan University. 
