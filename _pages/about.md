@@ -55,7 +55,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
  **Jiepan Li**, Fangxiao Lu, Nan Xue, Zhuohong Li, Hongyan Zhang, Wei He 
 
 [**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
-- **Introduction**: Unlike previous designs for multi-level feature fusion, we state that enhancing low-level features is more impending for COD.
+- **Introduction**:  In this paper, we propose an overlapped window cross-level attention (OWinCA) to achieve the low-level feature enhancement guided by the highest-level features. 
 - **Key words**: Camouflaged Object Detection, Attention Mechanism
 </div>
 </div>
