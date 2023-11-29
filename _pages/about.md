@@ -50,7 +50,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Attention: Cross-level Attention with Overlapped Windows</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-level Attention with Overlapped Windows for Camouflaged Object Detection]([https://arxiv.org/pdf/2307.12309.pdf](https://arxiv.org/pdf/2311.16618.pdf))
+[Cross-level Attention with Overlapped Windows for Camouflaged Object Detection](https://arxiv.org/pdf/2311.16618.pdf)
 
  **Jiepan Li**, Fangxiao Lu, Nan Xue, Zhuohong Li, Hongyan Zhang, Wei He 
 
