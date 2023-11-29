@@ -26,7 +26,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 [Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)
 
-**Jiepan Li**, Wei He, Hongyan Zhang **(Role: First author)**
+**Jiepan Li**, Wei He, Hongyan Zhang 
 
 [**Code**](https://github.com/Henryjiepanli/DAD)
 - **Introduction**: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
@@ -39,11 +39,24 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 [Building Extraction from Remote Sensing Images via an Uncertainty-Aware Network](https://arxiv.org/pdf/2307.12309.pdf)
 
- **Jiepan Li**, Wei He, Weinan Cao, Liangpei Zhang, Hongyan Zhang **(Role: First author)**
+ **Jiepan Li**, Wei He, Weinan Cao, Liangpei Zhang, Hongyan Zhang 
 
 [**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
 - **Introduction**: In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward Uncertainty-Aware Network (UANet) to alleviate this problem.
 - **Key words**: Remote sensing, building extraction, uncertainty-aware
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Attention: Cross-level Attention with Overlapped Windows</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-level Attention with Overlapped Windows for Camouflaged Object Detection]([https://arxiv.org/pdf/2307.12309.pdf](https://arxiv.org/pdf/2311.16618.pdf))
+
+ **Jiepan Li**, Fangxiao Lu, Nan Xue, Zhuohong Li, Hongyan Zhang, Wei He 
+
+[**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
+- **Introduction**: Unlike previous designs for multi-level feature fusion, we state that enhancing low-level features is more impending for COD.
+- **Key words**: Camouflaged Object Detection, Attention Mechanism
 </div>
 </div>
 
