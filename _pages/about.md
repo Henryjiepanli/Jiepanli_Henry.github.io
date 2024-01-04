@@ -68,8 +68,8 @@ C. Han,C. Wu, H. Guo , M. Hu. **J. Li**, and H. Chen
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q3 TOP, IF=4.715**)
 
 # 💻 Application
-<div class='app-box'><div class='app-box-video'><div><div class="badge">1.The large-scale Buliding Extraction System will be online soon!</div>
-<video width="640" height="480">  <source src="images/v.mp4" playsinline autoplay="true" controls controlslist="nodownload"></video>>
+<div class='app-box'><div class='app-box-video'><div><div class="badge">The large-scale Buliding Extraction System will be online soon!</div>
+<video width="640" height="480">  <source src="images/v.mp4" playsinline autoplay="true" controls controlslist="nodownload"></video>
 </div>
 </div>
 </div>
