@@ -19,6 +19,9 @@ redirect_from:
 
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2016. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/).
 
+# 💻 The Large-Scale Buliding Extraction System will be online soon!
+<video width="640" height="480" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/v.mp4"></video>
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Binary Segmentation: Difference-Aware Decoder(DAD)</div><img src='images/DAD.png' alt="sym" width="100%"></div></div>
@@ -66,13 +69,6 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 C. Han,C. Wu, H. Guo , M. Hu. **J. Li**, and H. Chen
 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q3 TOP, IF=4.715**)
-
-# 💻 The Large-Scale Buliding Extraction System will be online soon!
-<div class='app-box'><div class='app-box-video'><div><div class="badge">Demo</div>
-<video width="640" height="480" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/v.mp4"></video>
-</div>
-</div>
-</div>
 
 # 🎖 Contests
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
