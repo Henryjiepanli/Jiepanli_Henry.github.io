@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2016. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/).
 
-# 💻 The Large-Scale Buliding Extraction System will be online soon!
+# 💻 The Large-Scale Remote Sensing Intelligent Interpretation Platform System will be online soon!
 <video width="1000" height="750" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/v.mp4"></video>
 
 # 📝 Publications 
