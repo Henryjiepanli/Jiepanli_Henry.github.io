@@ -69,7 +69,8 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 # 💻 Application
 <div class='app-box'><div class='app-box-video'><div><div class="badge">1.The large-scale Buliding Extraction System will be online soon!</div>
-<video width="320" height="240">  <source src="images/v.mp4" autoplay>
+<video width="640" height="480">  <source src="images/v.mp4" playsinline autoplay="true" controls controlslist="nodownload"></video>>
+</div>
 </div>
 </div>
 
