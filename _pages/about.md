@@ -21,7 +21,6 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 # ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
 <video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/v.mp4"></video>
-<img src='images/visual.png' alt="sym" width="1100">
 
 # 📝 Publications 
 
