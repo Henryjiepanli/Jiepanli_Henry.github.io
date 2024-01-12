@@ -78,7 +78,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 **Jiepan Li**, Fangxiao Lu, Wei He, Hongyan Zhang
 
-- **Introduction:** We propose an efficient solution to achieving the farm segmentation from SAR data.
+- **Introduction:** We propose an efficient solution to achieve the farm segmentation from SAR data.
 
 - **Key words:** SAR, Multi-model fusion, OHEM
 </div>
