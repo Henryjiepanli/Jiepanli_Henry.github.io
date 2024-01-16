@@ -40,9 +40,11 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Building Extraction: Uncertainty-Aware Network(UANet)</div><img src='images/UANet_visual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Building Extraction from Remote Sensing Images via an Uncertainty-Aware Network](https://arxiv.org/pdf/2307.12309.pdf)
+[UANet: an Uncertainty-Aware Network for Building Extraction from Remote Sensing Images](https://arxiv.org/pdf/2307.12309.pdf)
 
  **Jiepan Li**, Wei He, Weinan Cao, Liangpei Zhang, Hongyan Zhang 
+
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=8.2**)
 
 [**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
 - **Introduction**: In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward Uncertainty-Aware Network (UANet) to alleviate this problem.
