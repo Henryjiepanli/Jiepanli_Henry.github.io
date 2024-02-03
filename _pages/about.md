@@ -40,7 +40,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Building Extraction: Uncertainty-Aware Network(UANet)</div><img src='images/UANet_visual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UANet: an Uncertainty-Aware Network for Building Extraction from Remote Sensing Images](https://arxiv.org/pdf/2307.12309.pdf)
+[UANet: an Uncertainty-Aware Network for Building Extraction from Remote Sensing Images](https://ieeexplore.ieee.org/document/10418227)
 
  **Jiepan Li**, Wei He, Weinan Cao, Liangpei Zhang, Hongyan Zhang 
 
