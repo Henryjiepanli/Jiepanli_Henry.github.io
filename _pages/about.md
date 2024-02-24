@@ -72,6 +72,12 @@ C. Han,C. Wu, H. Guo , M. Hu. **J. Li**, and H. Chen
 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q3 TOP, IF=4.715**)
 
+[C2F-SemiCD: A coarse-to-fine semi-supervised change detection method based on consistency regularization in High-Resolution Remote-Sensing Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560)
+
+C. Han,C. Wu, M. Hu. **J. Li**, and H. Chen
+
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=8.2**)
+
 # 🎖 Contests
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
