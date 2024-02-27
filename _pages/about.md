@@ -72,7 +72,7 @@ C. Han, C. Wu, H. Guo, M. Hu, **Jiepan Li**, and H. Chen
 
 IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q3 TOP, IF=4.715**)
 
-[2. C2F-SemiCD: A coarse-to-fine semi-supervised change detection method based on consistency regularization in High-Resolution Remote-Sensing Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560)
+[2. C2F-SemiCD: A coarse-to-fine semi-supervised change detection method based on consistency regularization in High-Resolution Remote-Sensing Images]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560](https://ieeexplore.ieee.org/document/10445496))
 
 C. Han, C. Wu, M. Hu, **Jiepan Li**, and H. Chen
 
