@@ -78,6 +78,12 @@ C. Han, C. Wu, M. Hu, **Jiepan Li**, and H. Chen
 
 IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=8.2**)
 
+[3. Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560)
+
+Zhuohong Li, Wei He, **Jiepan Li**, Fangxiao Lu, Hongyan Zhang
+
+CVPR2024 (**CCF-A**)
+
 # 🎖 Contests
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
