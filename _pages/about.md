@@ -103,6 +103,8 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 C. Han, C. Wu, M. Hu, **Jiepan Li**, and H. Chen
 
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=8.2**)
+
 [**Code**](https://github.com/ChengxiHAN/C2F-SemiCD-and-C2FNet)
 - **Introduction**:  we propose a coarse-to-fine semi-supervised change detection method based on consistency regularization (C2F-SemiCD), which includes a coarse-to-fine change detection network with a multi-scale attention mechanism(C2FNet) and a semi-supervised update method. 
 - **Key words**: Remote sensing, Change detection, Semi-supervised
