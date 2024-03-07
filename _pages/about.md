@@ -66,7 +66,50 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 
 # 📝Co-authored Publications 
-[1. Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Landcover mapping</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels](https://arxiv.org/html/2403.02746v1)
+
+Zhuohong Li, Wei He, **Jiepan Li**, Fangxiao Lu, Hongyan Zhang
+
+Conference on Computer Vision and Pattern Recognition (CVPR2024) (**CCF-A**)
+
+[**Code**](https://github.com/Henryjiepanli/DAD)
+- **Introduction**: In this paper, we propose an efficient, weakly supervised framework (Paraformer) to guide large-scale HR land-cover mapping with easy-access historical land-cover data of low resolution (LR).
+- **Key words**: Remote sensing, Landcover mapping, Weakly supervised, Semantic segmentation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Change Detection: Change Guiding Network(CGNet)</div><img src='images/CGNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560)
+
+C. Han, C. Wu, H. Guo, M. Hu, **Jiepan Li**, and H. Chen
+
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q3 TOP, IF=4.715**)
+
+[**Code**](https://github.com/ChengxiHAN/CGNet-CD)
+- **Introduction**: Our proposed hange guide module can effectively capture the long-distance dependency among pixels and overcomes the problem of the insufficient receptive field.
+- **Key words**: Remote sensing, Change detection, Attention mechanism
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Semi-supervised Change Detection</div><img src='images/C2F-SemiCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[C2F-SemiCD: A coarse-to-fine semi-supervised change detection method based on consistency regularization in High-Resolution Remote-Sensing Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445496)
+
+C. Han, C. Wu, M. Hu, **Jiepan Li**, and H. Chen
+
+[**Code**](https://github.com/ChengxiHAN/C2F-SemiCD-and-C2FNet)
+- **Introduction**:  we propose a coarse-to-fine semi-supervised change detection method based on consistency regularization (C2F-SemiCD), which includes a coarse-to-fine change detection network with a multi-scale attention mechanism(C2FNet) and a semi-supervised update method. 
+- **Key words**: Remote sensing, Change detection, Semi-supervised
+</div>
+</div>
+
+<!-- [1. Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560)
 
 C. Han, C. Wu, H. Guo, M. Hu, **Jiepan Li**, and H. Chen
 
@@ -82,7 +125,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 
 Zhuohong Li, Wei He, **Jiepan Li**, Fangxiao Lu, Hongyan Zhang
 
-CVPR2024 (**CCF-A**)
+CVPR2024 (**CCF-A**) -->
 
 # 🎖 Contests
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
