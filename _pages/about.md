@@ -19,6 +19,9 @@ redirect_from:
 
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2016. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/).
 
+# 👀👀👀We are delighted to inform you that based on our proposed UANet, we have made improvements and successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
+<img src='images/DFC.png' alt="sym" width="100%"></img>
+
 # ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
 <video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/WeChat_20240124230813.mp4"></video>
 
@@ -62,6 +65,47 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 [**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
 - **Introduction**:  In this paper, we propose an overlapped window cross-level attention (OWinCA) to achieve the low-level feature enhancement guided by the highest-level features. 
 - **Key words**: Camouflaged Object Detection, Attention Mechanism
+</div>
+</div>
+
+# 🎖 Contests
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE GRSS Data Fusion Contest Track 1</div><img src='images/DFC_track1.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[rank first（champion）](https://news.whu.edu.cn/info/1015/454817.htm)
+
+**Jiepan Li**, Fangxiao Lu, Wei He, Hongyan Zhang
+
+- **Introduction:** This track focuses on mapping the water surface from Copernicus Sentinel-1 SAR imagery. A set of events will be provided from selected geographical areas and events. The goal is to accurately determine water and non-water pixels in these event areas by fusing data from one or more of the provided data sources.
+
+- **Key words:** SAR, Flood rapid mapping
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE GRSS Data Fusion Contest Track 2</div><img src='images/DFC_track2.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[rank first（champion）](https://news.whu.edu.cn/info/1015/454817.htm)
+
+**Jiepan Li**, Fangxiao Lu, Wei He, Hongyan Zhang
+
+- **Introduction:** Track-2 focuses on mapping the water surface from Copernicus Sentinel-2 and Landsat optical imageries. The physics of measurement is very different from track-1. Despite several spectral bands, and a much better signal-to-noise ratio, water reflectance is quite variable in the optical domain. What's more, the availability of optical data around flooding events is generally poorer, due to cloud cover. The latter is well characterized in the available data, but it will be necessary to take it into account in the various training and inference stages.
+
+- **Key words:** Multi-spectral data, Flood rapid mapping
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[高分辨率SAR图像中近海养殖场分割赛道决赛第六名](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
+
+**Jiepan Li**, Fangxiao Lu, Wei He, Hongyan Zhang
+
+- **Introduction:** We propose an efficient solution to achieve the farm segmentation from SAR data.
+
+- **Key words:** SAR, Multi-model fusion, OHEM
 </div>
 </div>
 
@@ -129,19 +173,6 @@ Zhuohong Li, Wei He, **Jiepan Li**, Fangxiao Lu, Hongyan Zhang
 
 CVPR2024 (**CCF-A**) -->
 
-# 🎖 Contests
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[高分辨率SAR图像中近海养殖场分割赛道决赛第六名](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
-
-**Jiepan Li**, Fangxiao Lu, Wei He, Hongyan Zhang
-
-- **Introduction:** We propose an efficient solution to achieve the farm segmentation from SAR data.
-
-- **Key words:** SAR, Multi-model fusion, OHEM
-</div>
-</div>
 
 # 🐅Academic Service
 - **Journal Reviewer**: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
