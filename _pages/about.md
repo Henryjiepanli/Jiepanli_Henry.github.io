@@ -125,7 +125,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR2024) (**CCF-A**)
 
 C. Han, C. Wu, H. Guo, M. Hu, **Jiepan Li**, and H. Chen
 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q3 TOP, IF=4.715**)
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q2 TOP, IF=4.715**)
 
 [**Code**](https://github.com/ChengxiHAN/CGNet-CD)
 - **Introduction**: Our proposed hange guide module can effectively capture the long-distance dependency among pixels and overcomes the problem of the insufficient receptive field.
@@ -152,7 +152,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 
 C. Han, C. Wu, H. Guo, M. Hu, **Jiepan Li**, and H. Chen
 
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q3 TOP, IF=4.715**)
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2023. (**SCI Q2 TOP, IF=4.715**)
 
 [2. C2F-SemiCD: A coarse-to-fine semi-supervised change detection method based on consistency regularization in High-Resolution Remote-Sensing Images](https://ieeexplore.ieee.org/document/10445496)
 
