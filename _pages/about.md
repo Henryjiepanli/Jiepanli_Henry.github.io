@@ -74,7 +74,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 
 [rank first（champion）](https://news.whu.edu.cn/info/1015/454817.htm)
 
-- **Introduction:** This track focuses on mapping the water surface from Copernicus Sentinel-1 SAR imagery. A set of events will be provided from selected geographical areas and events. The goal is to accurately determine water and non-water pixels in these event areas by fusing data from one or more of the provided data sources.
+- **Introduction:** This track focuses on mapping the water surface from Copernicus Sentinel-1 SAR imagery. The goal is to accurately determine water and non-water pixels in these event areas by fusing data from one or more of the provided data sources.
 
 - **Key words:** SAR, Flood rapid mapping
 </div>
@@ -85,8 +85,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 
 [Rank First（champion）](https://news.whu.edu.cn/info/1015/454817.htm)
 
-- **Introduction:** Track-2 focuses on mapping the water surface from Copernicus Sentinel-2 and Landsat optical imageries. The physics of measurement is very different from track-1. Despite several spectral bands, and a much better signal-to-noise ratio, water reflectance is quite variable in the optical domain. What's more, the availability of optical data around flooding events is generally poorer, due to cloud cover. The latter is well characterized in the available data, but it will be necessary to take it into account in the various training and inference stages.
-
+- **Introduction:** Track-2 focuses on mapping the water surface from Copernicus Sentinel-2 and Landsat optical imageries. 
 - **Key words:** Multi-spectral data, Flood rapid mapping
 </div>
 </div>
