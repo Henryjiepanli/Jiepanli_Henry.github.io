@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2016. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/).
 
-# 👀👀👀We are delighted to inform you that based on our proposed UANet, we have made improvements and successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
+# ✈️✈️We are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
 <img src='images/DFC.png' alt="sym" width="100%"></img>
 
 # ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
