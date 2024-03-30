@@ -72,7 +72,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE GRSS Data Fusion Contest Track 1</div><img src='images/DFC_track1.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[We ranked first in the leaderboard for track 1 of the Data Fusion Contest 2024（champion）](https://news.whu.edu.cn/info/1015/454817.htm)
+[We ranked first in the track 1 of the Data Fusion Contest 2024（champion）](https://news.whu.edu.cn/info/1015/454817.htm)
 
 - **Introduction:** This track focuses on mapping the water surface from Copernicus Sentinel-1 SAR imagery. The goal is to accurately determine water and non-water pixels in these event areas by fusing data from one or more of the provided data sources.
 
@@ -83,7 +83,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE GRSS Data Fusion Contest Track 2</div><img src='images/DFC_track2.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[We ranked first in the leaderboard for track 1 of the Data Fusion Contest 2024（champion）](https://news.whu.edu.cn/info/1015/454817.htm)
+[We ranked first in the track 2 of the Data Fusion Contest 2024（champion）](https://news.whu.edu.cn/info/1015/454817.htm)
 
 - **Introduction:** Track-2 focuses on mapping the water surface from Copernicus Sentinel-2 and Landsat optical imageries. 
 - **Key words:** Multi-spectral data, Flood rapid mapping
