@@ -168,7 +168,7 @@ CVPR2024 (**CCF-A**) -->
 
 
 # 🐅Academic Service
-- **Journal Reviewer**: IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+- **Journal Reviewer**: IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 # 📖 Educations
 - *2020.06 - 2023.07 (now)*, State Key Laboratory of Information Engineering in Surveying,
