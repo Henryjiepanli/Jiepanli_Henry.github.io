@@ -90,6 +90,17 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2024 ISPRS第一技术委员会多模态遥感应用算法智能解译大赛</div><img src='images/微信图片_20240514152502.jpg' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[基于高分辨率可见光图像的感兴趣区域内部变化智能检测](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
+
+- **Introduction:** 高分系列、资源3号系列卫星数据，分辨率2米，主要覆盖我国陆域范围内农用地及建设用地.
+
+- **Key words:** SAR, Multi-model fusion, OHEM
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
