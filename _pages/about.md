@@ -68,6 +68,65 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Attention: Cross-level Attention with Overlapped Windows</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Cross-level Attention with Overlapped Windows for Camouflaged Object Detection](https://arxiv.org/pdf/2311.16618.pdf)
+
+ **Jiepan Li**, Fangxiao Lu, Nan Xue, Zhuohong Li, Hongyan Zhang, Wei He 
+
+[**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
+- **Introduction**:  In this paper, we propose an overlapped window cross-level attention (OWinCA) to achieve the low-level feature enhancement guided by the highest-level features. 
+- **Key words**: Camouflaged Object Detection, Attention Mechanism
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Flood Extraction with Optical Data</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH SARDATA](https://arxiv.org/pdf/2311.16618.pdf)
+
+**Jiepan Li**, He Huang, Wei He, Hongyan Zhang, Liangpei Zhang
+ 
+IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
+
+- **Introduction**: The 2024 IEEE GRSS Data Fusion Contest Track 2 aims to pioneer innovative algorithms for accurate flood extraction using multi-source optical remote sensing (RS) data. However, data
+ diversity introduces aleatoric uncertainty, especially with synthetic, non-real data. Meanwhile, the vast coverage of RS imagery and the small proportion of flood areas cause a significant class imbalance, leading to epistemic uncertainty. In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNet) for rapid flood mapping of multi-source optical data.
+- **Key words**: multi-source optical data, flood mapping, semantic segmentation, uncertainty-based theory
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5.Flood Extraction with SAR Data</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH SARDATA](https://arxiv.org/pdf/2311.16618.pdf)
+
+ He Huang, **Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
+ 
+IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
+
+- **Introduction**:  The 2024 IEEE GRSS Data Fusion Contest Track 1 is centered on leveraging multi-source remote sensing data, particularly synthetic aperture radar (SAR) data,
+ to classify flood and non-flood areas. In this contest, we acknowledge the significance of managing uncertain predictions and present an efficient Uncertainty-Aware Fusion Network (UAFNet)
+- **Key words**: SAR, flood mapping, semantic segmentation, uncertainty-based theory
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">6.Binary Segmentation</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressive Uncertainty Guided Network for Binary Segmentation](https://arxiv.org/pdf/2311.16618.pdf)
+
+**Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
+ 
+Submitted to IEEE Transactions on Image Processing (TIP) 
+
+- **Introduction**: We introduce two types of uncertainty from the cognitive and contextual perspectives, and propose the Progressive Uncertainty Guided Network (PUGNet) for binary segmentation. 
+- **Key words**: Salient object detection, camouflaged object detection, building extraction, and uncertainty-aware theory
+</div>
+</div>
+
+
 # 🎖 Contests
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE GRSS Data Fusion Contest Track 1</div><img src='images/DFC_track1.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -93,11 +152,11 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2024 ISPRS第一技术委员会多模态遥感应用算法智能解译大赛</div><img src='images/微信图片_20240514152502.jpg' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于高分辨率可见光图像的感兴趣区域内部变化智能检测](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
+[基于高分辨率可见光图像的感兴趣区域内部变化智能检测**第四名**](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
 
-- **Introduction:** 高分系列、资源3号系列卫星数据，分辨率2米，主要覆盖我国陆域范围内农用地及建设用地.
+- **Introduction:** 数据：高分系列、资源3号系列卫星数据，分辨率2米，主要覆盖我国陆域范围内农用地及建设用地；变化类型包括：建（构）筑物、推堆土、库塘水面、公路、铁路、公园绿地和背景
 
-- **Key words:** SAR, Multi-model fusion, OHEM
+- **Key words:** Change Detection
 </div>
 </div>
 
