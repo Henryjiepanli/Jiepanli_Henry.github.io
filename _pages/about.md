@@ -94,8 +94,8 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
  
 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 
-- **Introduction**: The 2024 IEEE GRSS Data Fusion Contest Track 2 aims to pioneer innovative algorithms for accurate flood extraction using multi-source optical remote sensing (RS) data. However, data
- diversity introduces aleatoric uncertainty, especially with synthetic, non-real data. Meanwhile, the vast coverage of RS imagery and the small proportion of flood areas cause a significant class imbalance, leading to epistemic uncertainty. In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNet) for rapid flood mapping of multi-source optical data.
+- **Introduction**: The 2024 IEEE GRSS Data Fusion Contest Track 2 aims to pioneer innovative algorithms for accurate flood extraction using multi-source optical remote sensing (RS) data.
+In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNet) for rapid flood mapping of multi-source optical data.
 - **Key words**: multi-source optical data, flood mapping, semantic segmentation, uncertainty-based theory
 </div>
 </div>
