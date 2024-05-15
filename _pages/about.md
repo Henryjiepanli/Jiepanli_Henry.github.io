@@ -68,21 +68,8 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Attention: Cross-level Attention with Overlapped Windows</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Cross-level Attention with Overlapped Windows for Camouflaged Object Detection](https://arxiv.org/pdf/2311.16618.pdf)
-
- **Jiepan Li**, Fangxiao Lu, Nan Xue, Zhuohong Li, Hongyan Zhang, Wei He 
-
-[**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
-- **Introduction**:  In this paper, we propose an overlapped window cross-level attention (OWinCA) to achieve the low-level feature enhancement guided by the highest-level features. 
-- **Key words**: Camouflaged Object Detection, Attention Mechanism
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Flood Extraction with Optical Data</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Flood Extraction with Optical Data</div><img src='images/track2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH SARDATA](https://arxiv.org/pdf/2311.16618.pdf)
@@ -97,7 +84,7 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5.Flood Extraction with SAR Data</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5.Flood Extraction with SAR Data</div><img src='images/Track1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH SARDATA](https://arxiv.org/pdf/2311.16618.pdf)
@@ -112,7 +99,7 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">6.Binary Segmentation</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">6.Binary Segmentation</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Progressive Uncertainty Guided Network for Binary Segmentation](https://arxiv.org/pdf/2311.16618.pdf)
