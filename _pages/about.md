@@ -70,8 +70,22 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Flood Extraction with SAR Data</div><img src='images/Track1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Flood Extraction with Optical Data</div><img src='images/track2.png' alt="sym" width="100%"></div></div>
+[OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH SARDATA](https://arxiv.org/pdf/2311.16618.pdf)
+
+ He Huang, **Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
+ 
+IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
+
+- **Introduction**:  The 2024 IEEE GRSS Data Fusion Contest Track 1 is centered on leveraging multi-source remote sensing data, particularly synthetic aperture radar (SAR) data,
+ to classify flood and non-flood areas. In this contest, we acknowledge the significance of managing uncertain predictions and present an efficient Uncertainty-Aware Fusion Network (UAFNet)
+- **Key words**: SAR, flood mapping, semantic segmentation, uncertainty-based theory
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5.Flood Extraction with Optical Data</div><img src='images/track2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH SARDATA](https://arxiv.org/pdf/2311.16618.pdf)
@@ -86,20 +100,6 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5.Flood Extraction with SAR Data</div><img src='images/Track1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH SARDATA](https://arxiv.org/pdf/2311.16618.pdf)
-
- He Huang, **Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
- 
-IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
-
-- **Introduction**:  The 2024 IEEE GRSS Data Fusion Contest Track 1 is centered on leveraging multi-source remote sensing data, particularly synthetic aperture radar (SAR) data,
- to classify flood and non-flood areas. In this contest, we acknowledge the significance of managing uncertain predictions and present an efficient Uncertainty-Aware Fusion Network (UAFNet)
-- **Key words**: SAR, flood mapping, semantic segmentation, uncertainty-based theory
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">6.Binary Segmentation</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
