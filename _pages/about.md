@@ -117,7 +117,7 @@ Submitted to IEEE Transactions on Image Processing (TIP)
 
 #🧑‍🏫Supervised Undergraduate Students' Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Farmland Mapping</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Farmland Mapping</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
