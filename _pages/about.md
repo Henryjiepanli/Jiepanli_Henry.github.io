@@ -115,6 +115,21 @@ Submitted to IEEE Transactions on Image Processing (TIP)
 </div>
 </div>
 
+#🧑‍🏫Supervised Undergraduate Students' Research
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Farmland Mapping</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
+
+Yipan Wei, **Jiepan Li**, Wei He
+ 
+Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), Equal Contribution
+- **Introduction**: To meet the urgent need for efficient farmland extraction and overcome existing technical challenges, we have developed a comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
+- **Key words**: Farmland extraction, remote sensing, dual-branch, semantic segmentation
+- **Description**: Wuhan University, School of Computer Science and Technology, Third-Year Undergraduate Student.
+</div>
+</div>
 
 # 🎖 Contests
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE GRSS Data Fusion Contest Track 1</div><img src='images/DFC_track1.png' alt="sym"></div></div>
