@@ -122,9 +122,9 @@ Submitted to IEEE Transactions on Image Processing (TIP)
 
 [A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
 
-Yipan Wei, **Jiepan Li**, Wei He
+Yipan Wei, **Jiepan Li**, Wei He. (Equal Contribution)
  
-Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), Equal Contribution
+Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 - **Introduction**: To meet the urgent need for efficient farmland extraction and overcome existing technical challenges, we have developed a comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
 - **Key words**: Farmland extraction, remote sensing, dual-branch, semantic segmentation
 - **Description**: Wuhan University, School of Computer Science and Technology, Third-Year Undergraduate Student.
