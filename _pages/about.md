@@ -109,9 +109,25 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 **Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
  
 Submitted to IEEE Transactions on Image Processing (TIP) 
-
+[**Code**](https://github.com/Henryjiepanli/PUGNet)
 - **Introduction**: We introduce two types of uncertainty from the cognitive and contextual perspectives, and propose the Progressive Uncertainty Guided Network (PUGNet) for binary segmentation. 
 - **Key words**: Salient object detection, camouflaged object detection, building extraction, and uncertainty-aware theory
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">7.Building Change Detection</div><img src='images/UA-BCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Overcome the Uncertainty Challenges in Detecting Building Changes from Remote Sensing Images](https://arxiv.org/pdf/2311.16618.pdf)
+
+**Jiepan Li**, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang
+ 
+Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)
+
+[**Code**](https://github.com/Henryjiepanli/UA-BCD)
+
+- **Introduction**: To address the uncertainty challenges in building change detection, we present an Uncertainty-Aware Building Change Detection (UA-BCD) framework. Extensive experiments on five public building change datasets demonstrate significant advantages over current state-of-the-art methods. Additionally, an application in Dongxihu District, Wuhan, China, confirms the outstanding performance of the proposed method in large-scale building change detection.
+- **Key words**: Building change detection, remote sensing, uncertainty-related theory, building change detection mapping
 </div>
 </div>
 
@@ -153,12 +169,12 @@ Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2024 ISPRS第一技术委员会多模态遥感应用算法智能解译大赛</div><img src='images/微信图片_20240514152502.jpg' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2024 ISPRS Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application</div><img src='images/isprs.jpg' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[基于高分辨率可见光图像的感兴趣区域内部变化智能检测**第四名**](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
+[Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application**第四名**](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
 
-- **Introduction:** 数据：高分系列、资源3号系列卫星数据，分辨率2米，主要覆盖我国陆域范围内农用地及建设用地；变化类型包括：建（构）筑物、推堆土、库塘水面、公路、铁路、公园绿地和背景
+- **Introduction:** Data：GF、ZF-3 Remote sensing imagery，Resolution: 2m. It mainly covers agricultural land and construction land within China's mainland territory; the types of changes include: buildings (structures), earthmoving, reservoir and pond water surfaces, highways, railways, park green spaces, and backgrounds.
 
 - **Key words:** Change Detection
 </div>
