@@ -167,7 +167,7 @@ Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2024 ISPRS Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application</div><img src='images/isprs.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2024 ISPRS Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application</div><img src='images/微信图片_20240514152502.jpg' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application**第四名**](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
