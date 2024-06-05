@@ -122,11 +122,9 @@ Submitted to IEEE Transactions on Image Processing (TIP)
 
 **Jiepan Li**, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang
  
-Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS)
+Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code**](https://github.com/Henryjiepanli/UA-BCD)
 
-[**Code**](https://github.com/Henryjiepanli/UA-BCD)
-
-- **Introduction**: To address the uncertainty challenges in building change detection, we present an Uncertainty-Aware Building Change Detection (UA-BCD) framework. Extensive experiments on five public building change datasets demonstrate significant advantages over current state-of-the-art methods. Additionally, an application in Dongxihu District, Wuhan, China, confirms the outstanding performance of the proposed method in large-scale building change detection.
+- **Introduction**: To address the uncertainty challenges in building change detection, we present an Uncertainty-Aware Building Change Detection (UA-BCD) framework. Except the extensive experiments on five public building change datasets, an application in Dongxihu District, Wuhan, China, confirms the outstanding performance of the proposed method in large-scale building change detection.
 - **Key words**: Building change detection, remote sensing, uncertainty-related theory, building change detection mapping
 </div>
 </div>
