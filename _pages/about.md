@@ -184,7 +184,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2024 ISPRS Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application</div><img src='images/微信图片_20240514152502.jpg' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application**第四名**](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
+[Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application**Rank the Fourth Place**](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
 
 - **Introduction:** Data：GF、ZF-3 Remote sensing imagery，Resolution: 2m. It mainly covers agricultural land and construction land within China's mainland territory; the types of changes include: buildings (structures), earthmoving, reservoir and pond water surfaces, highways, railways, park green spaces, and backgrounds.
 
