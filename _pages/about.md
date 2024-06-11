@@ -129,7 +129,7 @@ Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code*
 </div>
 </div>
 
-# 🧑‍🏫 Supervised Undergraduate Students' Research
+# 🧑‍🏫 Supervised Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Farmland Mapping</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -144,6 +144,20 @@ Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 - **Description**: Wuhan University, School of Computer Science and Technology, Third-Year Undergraduate Student.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Change Detection</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MLCNet: Multi-Task Level-Specific Constraint Network for Building Change Detection](https://arxiv.org/pdf/2311.16618.pdf)
+
+Taoyuan Liu, **Jiepan Li**, Fangxiao Lu, Minghao Tang, and Guangyi Yang
+
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2024. (**SCI Q2 TOP, IF=4.715**)
+- **Introduction**: We propose a Multi-Task Level-Specific Constraint Network, named MLCNet, which addresses the issues by optimizing the advantages of features at different levels.
+- **Key words**: Change detection (CD), hierarchical features, multi-task learning, deep supervision, level-specific constraint
+</div>
+</div>
+
 
 # 🎖 Contests
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE GRSS Data Fusion Contest Track 1</div><img src='images/DFC_track1.png' alt="sym"></div></div>
