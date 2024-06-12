@@ -215,8 +215,8 @@ Zhuohong Li, Wei He, **Jiepan Li**, Hongyan Zhang
 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 
 [**Code**](https://github.com/LiZhuoHong/BuildingMap)
-- **Introduction**: In this paper, we propose an efficient, weakly supervised framework (Paraformer) to guide large-scale HR land-cover mapping with easy-access historical land-cover data of low resolution (LR).
-- **Key words**: Remote sensing, Landcover mapping, Weakly supervised, Semantic segmentation.
+- **Introduction**: In this study, we proposed a semi-supervised framework to identify every building’s function in large-scale urban areas with multi-modality remote-sensing data.
+- **Key words**: Building function, multi-modality data, semi-supervised, large-scale mapping
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Landcover mapping</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
