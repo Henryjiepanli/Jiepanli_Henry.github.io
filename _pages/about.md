@@ -205,14 +205,28 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 
 # 📝Co-authored Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Landcover mapping</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Building Function</div><img src='images/building_function.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Identifying every building's function in large-scale urban areas with multi-modality remote-sensing data](https://www.researchgate.net/publication/380458348_Identifying_every_building's_function_in_large-scale_urban_areas_with_multi-modality_remote-sensing_data)
+
+Zhuohong Li, Wei He, **Jiepan Li**, Hongyan Zhang
+
+IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
+
+[**Code**](https://github.com/LiZhuoHong/BuildingMap)
+- **Introduction**: In this paper, we propose an efficient, weakly supervised framework (Paraformer) to guide large-scale HR land-cover mapping with easy-access historical land-cover data of low resolution (LR).
+- **Key words**: Remote sensing, Landcover mapping, Weakly supervised, Semantic segmentation.
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Landcover mapping</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels](https://arxiv.org/html/2403.02746v1)
 
 Zhuohong Li, Wei He, **Jiepan Li**, Fangxiao Lu, Hongyan Zhang
 
-Conference on Computer Vision and Pattern Recognition (CVPR2024) (**CCF-A**)
+Conference on Computer Vision and Pattern Recognition (CVPR2024, Highlight) (**CCF-A**)
 
 [**Code**](https://github.com/Henryjiepanli/DAD)
 - **Introduction**: In this paper, we propose an efficient, weakly supervised framework (Paraformer) to guide large-scale HR land-cover mapping with easy-access historical land-cover data of low resolution (LR).
@@ -220,7 +234,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR2024) (**CCF-A**)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Change Detection: Change Guiding Network(CGNet)</div><img src='images/CGNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Change Detection: Change Guiding Network(CGNet)</div><img src='images/CGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234560)
@@ -235,7 +249,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Semi-supervised Change Detection</div><img src='images/C2F-SemiCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Semi-supervised Change Detection</div><img src='images/C2F-SemiCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [C2F-SemiCD: A coarse-to-fine semi-supervised change detection method based on consistency regularization in High-Resolution Remote-Sensing Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445496)
