@@ -19,6 +19,8 @@ redirect_from:
 
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2016. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/).
 
+# 🎇🎇I attended the CVPR 2024 conference in Seattle, USA from June 15, 2024 to June 22, 2024.
+
 # ✈️✈️We are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
 <img src='images/DFC.png' alt="sym" width="100%">
 
@@ -281,14 +283,6 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 Zhuohong Li, Wei He, **Jiepan Li**, Fangxiao Lu, Hongyan Zhang
 
 CVPR2024 (**CCF-A**) -->
-
-# 🤔Academic Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.CVPR2024, Seattle</div><img src='images/cvpr2024.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-I attended the CVPR 2024 conference in Seattle, USA from June 15, 2024 to June 22, 2024.
-</div>
-</div>
 
 # 🐅Academic Service
 - **Journal Reviewer**: IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
