@@ -148,7 +148,7 @@ Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Change Detection</div><img src='images/MTCNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MLCNet: Multi-Task Level-Specific Constraint Network for Building Change Detection](https://arxiv.org/pdf/2311.16618.pdf)
+[MLCNet: Multi-Task Level-Specific Constraint Network for Building Change Detection](https://ieeexplore.ieee.org/abstract/document/10562241)
 
 Taoyuan Liu, **Jiepan Li**, Fangxiao Lu, Minghao Tang, and Guangyi Yang
 
