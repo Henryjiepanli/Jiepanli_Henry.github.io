@@ -52,7 +52,7 @@ Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPA
 
  **Jiepan Li**, Wei He, Weinan Cao, Liangpei Zhang, Hongyan Zhang 
 
-IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=8.2**)
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=8.2**) (**ESI Highly Cited Paper**)
 
 [**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
 - **Introduction**: In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward Uncertainty-Aware Network (UANet) to alleviate this problem.
