@@ -131,14 +131,12 @@ Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code*
 </div>
 </div>
 
-# 🧑‍🏫 Supervised Research
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Farmland Mapping</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
 
-Yipan Wei, **Jiepan Li**, Wei He. (Equal Contribution)
+**Jiepan Li**, Yipan Wei, Tiangao Wei, Wei He.
  
 Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 - **Introduction**: A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
@@ -146,6 +144,8 @@ Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 - **Description**: Wuhan University, School of Computer Science and Technology, Third-Year Undergraduate Student.
 </div>
 </div>
+
+# 🧑‍🏫 Supervised Research
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Change Detection</div><img src='images/MTCNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
