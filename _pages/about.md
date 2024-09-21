@@ -59,23 +59,10 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Attention: Cross-level Attention with Overlapped Windows</div><img src='images/framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Flood Extraction with SAR Data</div><img src='images/Track1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cross-level Attention with Overlapped Windows for Camouflaged Object Detection](https://arxiv.org/pdf/2311.16618.pdf)
-
- **Jiepan Li**, Fangxiao Lu, Nan Xue, Zhuohong Li, Hongyan Zhang, Wei He 
-
-[**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
-- **Introduction**:  In this paper, we propose an overlapped window cross-level attention (OWinCA) to achieve the low-level feature enhancement guided by the highest-level features. 
-- **Key words**: Camouflaged Object Detection, Attention Mechanism
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Flood Extraction with SAR Data</div><img src='images/Track1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH SAR DATA](https://arxiv.org/pdf/2311.16618.pdf)
+[Overcoming the Uncertainty Challenges in Flood Rapid Mapping with SAR Data](https://ieeexplore.ieee.org/document/10641026)
 
  He Huang, **Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
  
@@ -87,10 +74,10 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5.Flood Extraction with Optical Data</div><img src='images/track2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Flood Extraction with Optical Data</div><img src='images/track2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OVERCOMING THEUNCERTAINTY CHALLENGES IN FLOOD RAPID MAPPING WITH MULTI-SOURCE OPTICAL DATA](https://arxiv.org/pdf/2311.16618.pdf)
+[Overcoming the Uncertainty Challenges in Flood Rapid Mapping with Multi-Source Optical Data](https://ieeexplore.ieee.org/document/10641074)
 
 **Jiepan Li**, He Huang, Wei He, Hongyan Zhang, Liangpei Zhang
  
@@ -103,7 +90,7 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">6.Binary Segmentation</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5.Binary Segmentation</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Progressive Uncertainty Guided Network for Binary Segmentation](https://arxiv.org/pdf/2311.16618.pdf)
@@ -117,7 +104,7 @@ Submitted to IEEE Transactions on Image Processing (TIP)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">7.Building Change Detection</div><img src='images/UA-BCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">6.Building Change Detection</div><img src='images/UA-BCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcome the Uncertainty Challenges in Detecting Building Changes from Remote Sensing Images](https://arxiv.org/pdf/2311.16618.pdf)
@@ -131,7 +118,7 @@ Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code*
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Farmland Mapping</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">7.Farmland Mapping</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
@@ -147,7 +134,7 @@ Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
 
 # 🧑‍🏫 Supervised Research
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Change Detection</div><img src='images/MTCNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Change Detection</div><img src='images/MTCNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MLCNet: Multi-Task Level-Specific Constraint Network for Building Change Detection](https://ieeexplore.ieee.org/abstract/document/10562241)
