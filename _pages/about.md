@@ -48,7 +48,7 @@ Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPA
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Uncertainty-aware Learning</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Uncertainty-aware Learning</div><img src='images/PUGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Progressive Uncertainty Guided Network for Binary Segmentation](https://arxiv.org/pdf/2311.16618.pdf)
@@ -120,7 +120,7 @@ Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code*
 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 
 - **Introduction**:  The 2024 IEEE GRSS Data Fusion Contest Track 1 is centered on leveraging multi-source remote sensing data, particularly synthetic aperture radar (SAR) data,
- to classify flood and non-flood areas. In this contest, we acknowledge the significance of managing uncertain predictions and present an efficient Uncertainty-Aware Fusion Network (UAFNet)
+ to classify flood and non-flood areas. In this contest, we acknowledge the significance of managing uncertain predictions and present an efficient Uncertainty-Aware Fusion Network (UAFNet).
 - **Key words**: SAR, flood mapping, semantic segmentation, uncertainty-based theory
 </div>
 </div>
