@@ -29,23 +29,9 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 <video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/WeChat_20240124230813.mp4"></video>
 
 # 📝 Publications 
+## Single-Temporal Visual Interpretation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">1.Binary Segmentation: Difference-Aware Decoder(DAD)</div><img src='images/owinca.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)
-
-**Jiepan Li**, Wei He, Fangxiao Lu, Hongyan Zhang 
-
-Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-
-[**Code**](https://github.com/Henryjiepanli/DAD)
-- **Introduction**: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
-- **Key words**: Binary segmentation, camouflaged object detection, salient object detection, polyp segmentation, mirror detection.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Building Extraction: Uncertainty-Aware Network(UANet)</div><img src='images/UANet_visual.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Extraction</div><img src='images/UANet_visual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UANet: an Uncertainty-Aware Network for Building Extraction from Remote Sensing Images](https://ieeexplore.ieee.org/document/10418227)
@@ -60,7 +46,38 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">3.Flood Extraction with SAR Data</div><img src='images/Track1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Farmland Mapping</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
+
+**Jiepan Li**, Yipan Wei, Tiangao Wei, Wei He.
+ 
+Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
+- **Introduction**: A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
+- **Key words**: Farmland extraction, remote sensing, dual-branch, semantic segmentation
+- **Description**: Wuhan University, School of Computer Science and Technology, Third-Year Undergraduate Student.
+</div>
+</div>
+
+## Multi-Temporal Visual Interpretation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Change Detection</div><img src='images/UA-BCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Overcome the Uncertainty Challenges in Detecting Building Changes from Remote Sensing Images](https://arxiv.org/pdf/2311.16618.pdf)
+
+**Jiepan Li**, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang
+ 
+Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code**](https://github.com/Henryjiepanli/UA-BCD)
+
+- **Introduction**: To address the uncertainty challenges in building change detection, we present an Uncertainty-Aware Building Change Detection (UA-BCD) framework. In addition to conducting extensive experiments on five publicly available building change datasets, we have also implemented an application in Dongxihu District, Wuhan, China, which confirms the outstanding performance of the proposed method in large-scale building change detection.
+- **Key words**: Building change detection, remote sensing, uncertainty-related theory, building change detection mapping
+</div>
+</div>
+
+## Multi-Modal Visual Interpretation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Extraction(Sentinel-1)</div><img src='images/Track1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcoming the Uncertainty Challenges in Flood Rapid Mapping with SAR Data](https://ieeexplore.ieee.org/document/10641026)
@@ -75,7 +92,7 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">4.Flood Extraction with Optical Data</div><img src='images/Track2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Extraction(Sentinel-2)</div><img src='images/Track2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcoming the Uncertainty Challenges in Flood Rapid Mapping with Multi-Source Optical Data](https://ieeexplore.ieee.org/document/10641074)
@@ -90,8 +107,25 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 </div>
 </div>
 
+## Genral Visual Interpretation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">5.Binary Segmentation</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Difference-Aware Decoder(DAD)</div><img src='images/owinca.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)
+
+**Jiepan Li**, Wei He, Fangxiao Lu, Hongyan Zhang 
+
+Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+
+[**Code**](https://github.com/Henryjiepanli/DAD)
+- **Introduction**: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
+- **Key words**: Binary segmentation, camouflaged object detection, salient object detection, polyp segmentation, mirror detection.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Uncertainty-aware Learning</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Progressive Uncertainty Guided Network for Binary Segmentation](https://arxiv.org/pdf/2311.16618.pdf)
@@ -105,33 +139,6 @@ Submitted to IEEE Transactions on Image Processing (TIP)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">6.Building Change Detection</div><img src='images/UA-BCD.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Overcome the Uncertainty Challenges in Detecting Building Changes from Remote Sensing Images](https://arxiv.org/pdf/2311.16618.pdf)
-
-**Jiepan Li**, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang
- 
-Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code**](https://github.com/Henryjiepanli/UA-BCD)
-
-- **Introduction**: To address the uncertainty challenges in building change detection, we present an Uncertainty-Aware Building Change Detection (UA-BCD) framework. In addition to conducting extensive experiments on five publicly available building change datasets, we have also implemented an application in Dongxihu District, Wuhan, China, which confirms the outstanding performance of the proposed method in large-scale building change detection.
-- **Key words**: Building change detection, remote sensing, uncertainty-related theory, building change detection mapping
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">7.Farmland Mapping</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
-
-**Jiepan Li**, Yipan Wei, Tiangao Wei, Wei He.
- 
-Submitted to IEEE Transactions on Geoscience and Remote Sensing (**TGRS**)
-- **Introduction**: A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
-- **Key words**: Farmland extraction, remote sensing, dual-branch, semantic segmentation
-- **Description**: Wuhan University, School of Computer Science and Technology, Third-Year Undergraduate Student.
-</div>
-</div>
 
 # 🧑‍🏫 Supervised Research
 
