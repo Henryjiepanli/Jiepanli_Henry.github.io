@@ -79,7 +79,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Farmland Mapping</div><img src='images/cropland.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Farmland Mapping</div><img src='images/CROP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
