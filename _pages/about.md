@@ -29,6 +29,39 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 <video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/WeChat_20240124230813.mp4"></video>
 
 # 📝 Publications 
+
+## Genral Visual Interpretation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Difference-Aware Decoder(DAD)</div><img src='images/owinca.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)
+
+**Jiepan Li**, Wei He, Fangxiao Lu, Hongyan Zhang 
+
+Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+
+[**Code**](https://github.com/Henryjiepanli/DAD)
+- **Introduction**: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
+- **Key words**: Binary segmentation, camouflaged object detection, salient object detection, polyp segmentation, mirror detection.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Uncertainty-aware Learning</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressive Uncertainty Guided Network for Binary Segmentation](https://arxiv.org/pdf/2311.16618.pdf)
+
+**Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
+ 
+Submitted to IEEE Transactions on Image Processing (TIP) 
+[**Code**](https://github.com/Henryjiepanli/PUGNet)
+- **Introduction**: We introduce two types of uncertainty from the cognitive and contextual perspectives, and propose the Progressive Uncertainty Guided Network (PUGNet) for binary segmentation. 
+- **Key words**: Salient object detection, camouflaged object detection, building extraction, and uncertainty-aware theory
+</div>
+</div>
+
 ## Single-Temporal Visual Interpretation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Extraction</div><img src='images/UANet_visual.png' alt="sym" width="100%"></div></div>
@@ -46,7 +79,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Farmland Mapping</div><img src='images/farmland_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Farmland Mapping</div><img src='images/cropland.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images](https://arxiv.org/pdf/2311.16618.pdf)
@@ -104,38 +137,6 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 - **Introduction**: The 2024 IEEE GRSS Data Fusion Contest Track 2 aims to pioneer innovative algorithms for accurate flood extraction using multi-source optical remote sensing (RS) data.
 In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNet) for rapid flood mapping of multi-source optical data.
 - **Key words**: multi-source optical data, flood mapping, semantic segmentation, uncertainty-based theory
-</div>
-</div>
-
-## Genral Visual Interpretation
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Difference-Aware Decoder(DAD)</div><img src='images/owinca.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)
-
-**Jiepan Li**, Wei He, Fangxiao Lu, Hongyan Zhang 
-
-Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-
-[**Code**](https://github.com/Henryjiepanli/DAD)
-- **Introduction**: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
-- **Key words**: Binary segmentation, camouflaged object detection, salient object detection, polyp segmentation, mirror detection.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Uncertainty-aware Learning</div><img src='images/pugnet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Progressive Uncertainty Guided Network for Binary Segmentation](https://arxiv.org/pdf/2311.16618.pdf)
-
-**Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
- 
-Submitted to IEEE Transactions on Image Processing (TIP) 
-[**Code**](https://github.com/Henryjiepanli/PUGNet)
-- **Introduction**: We introduce two types of uncertainty from the cognitive and contextual perspectives, and propose the Progressive Uncertainty Guided Network (PUGNet) for binary segmentation. 
-- **Key words**: Salient object detection, camouflaged object detection, building extraction, and uncertainty-aware theory
 </div>
 </div>
 
