@@ -158,6 +158,17 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 
 # 🎖 Contests
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE Whispers Multimodal Semantic Segmentation Challenge</div><img src='images/whisper.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[We ranked first in the 2024 IEEE Whispers Multimodal Semantic Segmentation Challenge（champion）](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/)
+
+- **Introduction:** This contest focuses on land cover mapping in the Yangtze River Economic Belt using multi-source remote sensing data from Sentinel-1 and Sentinel-2.
+
+- **Key words:** Sentinel-1, Sentinel-2, Landcover mapping, Multi-Modal data
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE GRSS Data Fusion Contest Track 1</div><img src='images/Track1.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
