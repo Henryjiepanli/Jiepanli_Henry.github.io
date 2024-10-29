@@ -19,6 +19,8 @@ redirect_from:
 
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/).
 
+# ✈️✈️We are delighted to inform you we have successfully secured the championship in the [**2024 IEEE Whispers Multimodal Semantic Segmentation Challenge**](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/).
+
 # 🎇🎇I attended the IGARSS2024 conference in Athens, Greece from July 7, 2024 to July 13, 2024.
 # 🎇🎇I attended the CVPR 2024 conference in Seattle, USA from June 15, 2024 to June 22, 2024.
 
@@ -110,7 +112,7 @@ Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code*
 </div>
 
 ## Multi-Modal Visual Interpretation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Extraction(Sentinel-1)</div><img src='images/Track1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Extraction(Sentinel-1)</div><img src='images/IGARSS_track_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcoming the Uncertainty Challenges in Flood Rapid Mapping with SAR Data](https://ieeexplore.ieee.org/document/10641026)
@@ -125,7 +127,7 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Extraction(Sentinel-2)</div><img src='images/Track2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Extraction(Sentinel-2)</div><img src='images/IGARSS_track_2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Overcoming the Uncertainty Challenges in Flood Rapid Mapping with Multi-Source Optical Data](https://ieeexplore.ieee.org/document/10641074)
