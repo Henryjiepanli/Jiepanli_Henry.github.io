@@ -115,7 +115,7 @@ Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FUSION OF MULTIPLE MODELS WITH MULTI-MODAL DATASETS: LAND COVER MAPPING IN THE YANGTZE RIVER ECONOMIC BELT]
+[FUSION OF MULTIPLE MODELS WITH MULTI-MODAL DATASETS: LAND COVER MAPPING IN THE YANGTZE RIVER ECONOMIC BELT](https://ieeexplore.ieee.org/document/10641026)
 
  **Jiepan Li**, He Huang, Yu Xia
  
