@@ -112,6 +112,22 @@ Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code*
 </div>
 
 ## Multi-Modal Visual Interpretation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FUSION OF MULTIPLE MODELS WITH MULTI-MODAL DATASETS: LAND COVER MAPPING IN THE YANGTZE RIVER ECONOMIC BELT]
+
+ **Jiepan Li**, He Huang, Yu Xia
+ 
+IEEE WHISPERS 2024
+
+- **Introduction**:  The 2024 IEEE Whisper contest, MMSeg-YREB, aims to integrate multi-modal data, specifically Sentinel-1 and Sentinel-2, to conduct a detailed analysis of land cover types
+and their changes within the Yangtze River Economic Belt.
+- **Key words**: deep learning, land cover
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Extraction(Sentinel-1)</div><img src='images/IGARSS_track_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
