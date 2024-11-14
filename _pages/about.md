@@ -119,7 +119,7 @@ Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS) [**Code*
 
  **Jiepan Li**, He Huang, Yu Xia
  
-IEEE Workshop on Hyperspectral Image and Signal Processing (WHISPERS), 2024
+IEEE Workshop on Hyperspectral Image and Signal Processing (WHISPERS), 2024 (Oral)
 
 - **Introduction**:  The 2024 IEEE Whisper contest, MMSeg-YREB, aims to integrate multi-modal data, specifically Sentinel-1 and Sentinel-2, to conduct a detailed analysis of land cover types
 and their changes within the Yangtze River Economic Belt.
