@@ -19,16 +19,25 @@ redirect_from:
 
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/).
 
-# ✈️✈️We are delighted to inform you we have successfully secured the championship in the [**2024 IEEE Whispers Multimodal Semantic Segmentation Challenge**](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/).
+# 🗞️ News
 
-# 🎇🎇I attended the IGARSS2024 conference in Athens, Greece from July 7, 2024 to July 13, 2024.
-# 🎇🎇I attended the CVPR 2024 conference in Seattle, USA from June 15, 2024 to June 22, 2024.
+## One paper accepted to ISPRS.
+## One paper accepted to IEEE Whisper 2024 (Oral).
 
-# ✈️✈️We are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
+## ✈️✈️We are delighted to inform you we have successfully secured the championship in the [**2024 IEEE Whispers Multimodal Semantic Segmentation Challenge**](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/).
+
+## 🎇🎇I attended the IGARSS2024 conference in Athens, Greece from July 7, 2024 to July 13, 2024.
+## 🎇🎇I attended the CVPR 2024 conference in Seattle, USA from June 15, 2024 to June 22, 2024.
+
+## Two papers accepted to IGARSS 2024 (Oral).
+
+## ✈️✈️We are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
 <img src='images/DFC.png' alt="sym" width="100%">
 
-# ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
+## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
 <video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/WeChat_20240124230813.mp4"></video>
+
+## One paper accepted to TGRS.
 
 # 📝 Publications 
 
