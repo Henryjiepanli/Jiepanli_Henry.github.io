@@ -30,14 +30,15 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 ## 🎇🎇I attended the CVPR 2024 conference in Seattle, USA from June 15, 2024 to June 22, 2024.
 
 ## Two papers accepted to IGARSS 2024 (Oral).
+## One co-author paper accepted to CVPR 2024 (Highlight).
 
 ## ✈️✈️We are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
 <img src='images/DFC.png' alt="sym" width="100%">
 
+## One paper accepted to TGRS.
+
 ## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
 <video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/WeChat_20240124230813.mp4"></video>
-
-## One paper accepted to TGRS.
 
 # 📝 Publications 
 
