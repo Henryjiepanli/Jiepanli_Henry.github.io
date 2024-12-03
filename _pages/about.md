@@ -20,8 +20,8 @@ redirect_from:
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/).
 
 # 🗞️ News
-
-## One paper accepted to ISPRS.
+## One paper accepted to TGRS (2024.12.02).
+## One paper accepted to ISPRS (2024.11.22).
 ## One paper accepted to IEEE Whisper 2024 (Oral).
 
 ## ✈️✈️We are delighted to inform you we have successfully secured the championship in the [**2024 IEEE Whispers Multimodal Semantic Segmentation Challenge**](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/).
