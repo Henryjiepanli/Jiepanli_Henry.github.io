@@ -83,7 +83,7 @@ Submitted to IEEE Transactions on Image Processing (TIP)
 
  **Jiepan Li**, Wei He, Weinan Cao, Liangpei Zhang, Hongyan Zhang 
 
-IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=8.2**) (**ESI Highly Cited Paper**)
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=7.5**) (**ESI Highly Cited Paper**)
 
 [**Code**](https://github.com/Henryjiepanli/Uncertainty-aware-Network)
 - **Introduction**: In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward Uncertainty-Aware Network (UANet) to alleviate this problem.
@@ -98,7 +98,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 
 **Jiepan Li**, Yipan Wei, Tiangao Wei, Wei He.
  
-IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=8.2**) 
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=7.5**) 
 - **Introduction**: A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
 - **Key words**: Farmland extraction, remote sensing, dual-branch, semantic segmentation
 - **Description**: Wuhan University, School of Computer Science and Technology, Third-Year Undergraduate Student.
