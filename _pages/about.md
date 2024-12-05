@@ -110,7 +110,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Change Detection</div><img src='images/UA-BCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Overcoming the Uncertainty Challenges in Detecting Building Changes from Remote Sensing Images](https://arxiv.org/pdf/2311.16618.pdf)
+[Overcoming the Uncertainty Challenges in Detecting Building Changes from Remote Sensing Images](https://www.sciencedirect.com/science/article/pii/S092427162400426X)
 
 **Jiepan Li**, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang
  
