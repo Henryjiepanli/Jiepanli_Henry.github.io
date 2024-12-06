@@ -101,7 +101,6 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=7.5**) 
 - **Introduction**: A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
 - **Key words**: Farmland extraction, remote sensing, dual-branch, semantic segmentation
-- **Description**: Wuhan University, School of Computer Science and Technology, Third-Year Undergraduate Student.
 </div>
 </div>
 
