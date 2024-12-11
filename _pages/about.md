@@ -1,4 +1,4 @@
----
+![whisper_certificate_clear](https://github.com/user-attachments/assets/a7cdd4a1-145b-47e2-860b-bce655148e94)---
 permalink: /
 title: ""
 excerpt: ""
@@ -187,7 +187,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 
 # 🎖 Contests
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE Whispers Multimodal Semantic Segmentation Challenge</div><img src='images/whisper.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE Whispers Multimodal Semantic Segmentation Challenge</div><img src='images/whisper_certificate_clear.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [We ranked first in the 2024 IEEE Whispers Multimodal Semantic Segmentation Challenge（champion）](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/)
