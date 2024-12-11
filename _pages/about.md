@@ -1,4 +1,4 @@
-![whisper_certificate_clear](https://github.com/user-attachments/assets/a7cdd4a1-145b-47e2-860b-bce655148e94)---
+---
 permalink: /
 title: ""
 excerpt: ""
