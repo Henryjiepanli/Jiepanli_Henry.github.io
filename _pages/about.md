@@ -98,7 +98,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 
 **Jiepan Li**, Yipan Wei, Tiangao Wei, Wei He.
  
-IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 TOP, IF=7.5**) 
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025. (**SCI Q1 TOP, IF=7.5**) 
 - **Introduction**: A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
 - **Key words**: Farmland extraction, remote sensing, dual-branch, semantic segmentation
 </div>
@@ -113,7 +113,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 
 **Jiepan Li**, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang
  
-ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2024. (**SCI Q1 TOP, IF=10.6**) [**Code**](https://github.com/Henryjiepanli/UA-BCD)
+ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025. (**SCI Q1 TOP, IF=10.6**) [**Code**](https://github.com/Henryjiepanli/UA-BCD)
 
 - **Introduction**: To address the uncertainty challenges in building change detection, we present an Uncertainty-Aware Building Change Detection (UA-BCD) framework. In addition to conducting extensive experiments on five publicly available building change datasets, we have also implemented an application in Dongxihu District, Wuhan, China, which confirms the outstanding performance of the proposed method in large-scale building change detection.
 - **Key words**: Building change detection, remote sensing, uncertainty-related theory, building change detection mapping
