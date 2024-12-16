@@ -39,7 +39,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 ## One paper accepted to TGRS.
 
 ## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
-<video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/WeChat_20240124230813.mp4"></video>
+<video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/rs_platform.mp4"></video>
 
 # 📝 Publications 
 
