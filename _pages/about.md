@@ -188,7 +188,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 
 # 🎖 Contests
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE Whispers Multimodal Semantic Segmentation Challenge</div><img src='images/whisper_certificate_clear.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 IEEE Whispers Multimodal Semantic Segmentation Challenge</div><img src='images/whisper_certificate.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [We ranked first in the 2024 IEEE Whispers Multimodal Semantic Segmentation Challenge（champion）](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/)
