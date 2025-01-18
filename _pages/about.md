@@ -60,21 +60,6 @@ Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPA
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Uncertainty-aware Learning</div><img src='images/PUGNet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Progressive Uncertainty Guided Network for Binary Segmentation](https://arxiv.org/pdf/2311.16618.pdf)
-
-**Jiepan Li**, Wei He, Hongyan Zhang, Liangpei Zhang
- 
-Submitted to IEEE Transactions on Image Processing (TIP) 
-[**Code**](https://github.com/Henryjiepanli/PUGNet)
-- **Introduction**: We introduce two types of uncertainty from the cognitive and contextual perspectives, and propose the Progressive Uncertainty Guided Network (PUGNet) for binary segmentation. 
-- **Key words**: Salient object detection, camouflaged object detection, building extraction, and uncertainty-aware theory
-</div>
-</div>
-
 ## Single-Temporal Visual Interpretation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Extraction</div><img src='images/UANet_visual.png' alt="sym" width="100%"></div></div>
