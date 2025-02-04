@@ -32,11 +32,10 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 ## Two papers accepted to IGARSS 2024 (Oral).
 ## One co-author paper accepted to CVPR 2024 (Highlight).
+## One paper accepted to TGRS.
 
 ## ✈️✈️We are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
 <img src='images/DFC.png' alt="sym" width="100%">
-
-## One paper accepted to TGRS.
 
 ## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
 <video width="1000" playsinline autoplay="true" controls controlslist="nodownload">  <source src="images/rs_platform.mp4"></video>
