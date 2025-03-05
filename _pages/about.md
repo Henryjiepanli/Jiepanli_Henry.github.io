@@ -51,7 +51,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 **Jiepan Li**, Wei He, Fangxiao Lu, Hongyan Zhang 
 
-Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
 [**Code**](https://github.com/Henryjiepanli/DAD)
 - **Introduction**: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
