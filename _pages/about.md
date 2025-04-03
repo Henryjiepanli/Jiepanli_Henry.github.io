@@ -111,6 +111,22 @@ ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025. (**SCI Q1 
 </div>
 
 ## Multi-Modal Visual Interpretation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Mapping(Sentinel-1 &2)</div><img src='images/dfc_2024_jstar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest](https://ieeexplore.ieee.org/document/10641026)
+
+ **Jiepan Li**, He Huang, Wei~He,Hongyan~Zhang, Liangpei~Zhang, Ting~Liu, Mengke~Yuan, Chaoran~Lu, Kaixuan~Lu, Baochai~Peng, Heyang~Duan, Mengya~Li, Pan~Zhang, Tao~Wang, Tongkui~Liao, Yansheng~Li, Bo~Dang, Fanyi~Wei, Jieyi~Tan, Yangjie~Lin, Claudio~Persello, Saurabh~Prasad, Gemine~Vivone, Vincent~Lonjou, Frédéric~Bretar, Raquel~Rodriguez Suquet,Pauline~Guntzburger, 
+ Vincent~Poulain, Jacqueline~Le~Moigne, Benjamin~Smith, Sujay~Kumar, Thomas~Huang, Sophie~Ricci,Thanh~Huy~Nguyen, Andrea~Piacentini
+ 
+Submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
+
+- **Introduction**:  This article presents the scientific outcomes of the 2024 Data Fusion Contest (DFC24) organized by the Image Analysis and Data Fusion Technical Committee (IADF TC) of the IEEE Geoscience and Remote Sensing Society (GRSS), the Space for Climate Observatory (SCO), the Centre national d’etudes spatiales (CNES), the National Aeronautics and Space Administration (NASA), and the Centre Européen de Recherche et de Formation Avancée et Calcul Scientifique (CERFACS).
+- **Key words**: Transformers, convolutional neural networks, deep learning, data fusion, flood mapping, remote sensing.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
