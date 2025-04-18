@@ -128,7 +128,7 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 
 ## Multi-Modal Visual Interpretation
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/WHISPERS2024-challenge-banner.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whispers_jstar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multimodal Semantic Segmentation in Yangtze River Economic Belt: Outcome of the 2024 IEEE WHISPERS MMSeg-YREB Challenge](https://ieeexplore.ieee.org/document/10641026)
