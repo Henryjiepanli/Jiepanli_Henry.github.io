@@ -128,6 +128,24 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)
 
 ## Multi-Modal Visual Interpretation
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/WHISPERS2024-challenge-banner.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multimodal Semantic Segmentation in Yangtze River Economic Belt: Outcome of the 2024 IEEE WHISPERS MMSeg-YREB Challenge](https://ieeexplore.ieee.org/document/10641026)
+
+**Jiepan Li**, He Huang, Yu Xia, Xian Xu, Yingxin Wu, Qi Guo, Yinhe Liu, Yanfei Zhong, Senior Member, IEEE,
+Jeongho Min, Sungbin Son, Hyeonjin Kim, Jaejun Yoo, Gemine Vivone, Senior Member, IEEE, Chenyu Li, Wei
+He, Senior Member, IEEE, Renwei Dian, Hao Liu, Haipeng Wang, Kan Wei, A. K. Qin, Senior Member, IEEE,
+Naoto Yokoya, Member, IEEE, Shutao Li, Fellow, IEEE, Jocelyn Chanussot, Fellow, IEEE, and Danfeng
+Hong, Senior Member, IEEE
+ 
+Submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
+
+- **Introduction**:  MMSeg-YREB contest attracted 77 international teams, resulting in 2,977 highly competitive submissions. The Top 3 teams were recognized as challenge winners and presented their solutions in the MMSeg-YREB special session at WHISPERS 2024. In this paper, we provide a comprehensive overview of the MMSeg-YREB challenge, detailing the methodological designs of the Top 3 solutions and making available an open-source codebase for their implementations, along with the multimodal semantic segmentation dataset. We hope that the insights gained and the resources shared will make a significant impact in advancing large-scale multimodal semantic segmentation within the broader RS community.
+- **Key words**: rtificial Intelligence, Benchmark, Challenge, Deep Learning, Land Cover, Large-Scale, Multimodal, Remote Sensing, Semantic Segmentation, WHISPERS, YREB.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Mapping(Sentinel-1 &2)</div><img src='images/dfc_2024_jstar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
