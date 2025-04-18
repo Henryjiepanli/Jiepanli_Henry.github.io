@@ -110,6 +110,22 @@ ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025. (**SCI Q1 
 </div>
 </div>
 
+## Multi-Temporal Visual Interpretation
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/BGLU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping](https://www.sciencedirect.com/science/article/pii/S092427162400426X)
+
+**Jiepan Li**, He Huang. Yu Sheng, Yujun Guo, Wei He
+ 
+IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral) [**Code**](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)
+
+- **Introduction**: This study proposes a novel Building-Guided Pseudo-Label Learning Framework to address the challenges of mapping building damage from pre-disaster optical and post-disaster SAR images. Experimental results on the 2025 IEEE GRSS Data Fusion Contest dataset demonstrate the effectiveness of our approach, which achieved the highest mIoU score (54.28%) and **secured first place in the competition**. 
+- **Key words**: Building damage mapping, cross-modal, change detection
+</div>
+</div>
+
 ## Multi-Modal Visual Interpretation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Mapping(Sentinel-1 &2)</div><img src='images/dfc_2024_jstar.png' alt="sym" width="100%"></div></div>
