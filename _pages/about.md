@@ -141,7 +141,7 @@ Hong, Senior Member, IEEE
  
 Submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
 
-- **Introduction**:  MMSeg-YREB contest attracted 77 international teams, resulting in 2,977 highly competitive submissions. The Top 3 teams were recognized as challenge winners and presented their solutions in the MMSeg-YREB special session at WHISPERS 2024. In this paper, we provide a comprehensive overview of the MMSeg-YREB challenge, detailing the methodological designs of the Top 3 solutions and making available an open-source codebase for their implementations, along with the multimodal semantic segmentation dataset. We hope that the insights gained and the resources shared will make a significant impact in advancing large-scale multimodal semantic segmentation within the broader RS community.
+- **Introduction**:  In this paper, we provide a comprehensive overview of the MMSeg-YREB challenge, detailing the methodological designs of the Top 3 solutions and making available an open-source codebase for their implementations, along with the multimodal semantic segmentation dataset. 
 - **Key words**: rtificial Intelligence, Benchmark, Challenge, Deep Learning, Land Cover, Large-Scale, Multimodal, Remote Sensing, Semantic Segmentation, WHISPERS, YREB.
 </div>
 </div>
