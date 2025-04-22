@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/). **I am currently dedicating my research efforts to the study of disasters, with a particular focus on floods.**
+I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
 
 # 🗞️ News
 ## ✈️✈️We(Jiepan Li, He Huang, Yu Sheng, Yujun Guo, Wei He) are delighted to inform you we have successfully secured the championship in the second track of [**2025 IEEE GRSS Data Fusion Contest**](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest) (2025.03.28).
