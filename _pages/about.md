@@ -110,8 +110,6 @@ ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025. (**SCI Q1 
 </div>
 </div>
 
-## Multi-Temporal Visual Interpretation
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/BGLU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
