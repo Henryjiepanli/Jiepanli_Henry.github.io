@@ -268,7 +268,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2nd Gaofen Earth Observation Application Technology Innovation Competition</div><img src='images/cx_second.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Gaofen Earth Observation Application Technology Innovation Competition</div><img src='images/cx_second.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [We were awarded the Second Prize in the Land Surface Track of the 2nd Gaofen Earth Observation Application Technology Innovation Competition for the project 'Fine-Scale Crop Classification Using Gaofen Satellite Data' (第二届高分对地观测应用技术创新大赛陆表赛道——基于高分卫星的农作物精细识别技术赛题二等奖](https://news.whu.edu.cn/info/1015/454817.htm)
