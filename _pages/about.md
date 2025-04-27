@@ -267,6 +267,18 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Land Surface Track of the 2nd Gaofen Earth Observation Application Technology Innovation Competition</div><img src='images/cx_second.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[We were awarded the Second Prize in the Land Surface Track of the 2nd Gaofen Earth Observation Application Technology Innovation Competition for the project 'Fine-Scale Crop Classification Using Gaofen Satellite Data' (第二届高分对地观测应用技术创新大赛陆表赛道——基于高分卫星的农作物精细识别技术赛题二等奖](https://news.whu.edu.cn/info/1015/454817.htm)
+
+- **Introduction:** The goal of this competition is to develop a crop extraction model based on high-resolution multispectral and hyperspectral satellite imagery for precise crop classification. The model will deliver faster and more accurate cultivated land survey results, supporting land census efforts and monitoring of "non-agriculturalization" and "non-grainization.". 
+- **Key words:** Multi-spectral data, crop extraction, deep learning
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2024 ISPRS Contest on Intelligent Interpretation for Multi-modal Remote Sensing Application</div><img src='images/微信图片_20240514152502.jpg' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
