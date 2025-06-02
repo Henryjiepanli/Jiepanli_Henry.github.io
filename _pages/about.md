@@ -64,7 +64,20 @@ Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCS
 </div>
 </div>
 
-## Single-Temporal Visual Interpretation
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progressive Uncertainty-Guided Network(PUGNet)</div><img src='images/PUGNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery](https://arxiv.org/abs/2210.15156)
+
+**Jiepan Li**, Wei He
+
+Submitted to IEEE Transactions on Image Processing (TIP)
+
+[**Code**](https://github.com/Henryjiepanli/PU_RS)
+- **Introduction**: The core insight of PUGNet is a novel tripartite decomposition of uncertainty into three complementary components: foreground uncertainty (arising from ambiguous object regions), background uncertainty (linked to cluttered or low-contrast nontarget areas), and contextual uncertainty (centered around object boundaries and transition zones).
+- **Key words**: —Remote sensing, building extraction, building change detection, cropland extraction, and uncertainty
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Extraction</div><img src='images/UANet_visual.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
