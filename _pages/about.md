@@ -103,7 +103,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
  
 IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025. (**SCI Q1 TOP, IF=7.5**) 
 
-[**Code**](https://github.com/Henryjiepanli/DBBANet)
+[**Code**](https://github.com/Henryjiepanli/DBBANet) [**Data**](https://pan.baidu.com/s/1kdGAowJ2Dcqyn-dUQWLHJA?pwd=FGFD)
 - **Introduction**: A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
 - **Key words**: Farmland extraction, remote sensing, dual-branch, semantic segmentation
 </div>
