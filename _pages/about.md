@@ -47,7 +47,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 # 📝 Publications 
 
-## Genral Visual Interpretation
+## General Visual Interpretation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Difference-Aware Decoder(DAD)</div><img src='images/owinca.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
