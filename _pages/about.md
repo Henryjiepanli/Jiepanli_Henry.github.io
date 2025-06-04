@@ -109,7 +109,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025. (**SCI Q1 T
 </div>
 </div>
 
-## Multi-Temporal Visual Interpretation
+## Multi-Temporal/Modal Visual Interpretation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Change Detection</div><img src='images/UA-BCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -138,8 +138,6 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2025 (Oral)
 - **Key words**: Building damage mapping, cross-modal, change detection
 </div>
 </div>
-
-## Multi-Modal Visual Interpretation
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whispers_jstar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
