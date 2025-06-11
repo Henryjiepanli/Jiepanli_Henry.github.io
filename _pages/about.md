@@ -177,7 +177,7 @@ Submitted to IEEE Journal of Selected Topics in Applied Earth Observations and R
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FUSION OF MULTIPLE MODELS WITH MULTI-MODAL DATASETS: LAND COVER MAPPING IN THE YANGTZE RIVER ECONOMIC BELT](https://ieeexplore.ieee.org/document/10641026)
+[Fusion of Multiple Models with Multi-Modal Datasets: Land Cover Mapping in the Yangtze River Economic Belt](https://ieeexplore.ieee.org/document/10876418)
 
  **Jiepan Li**, He Huang, Yu Xia
  
