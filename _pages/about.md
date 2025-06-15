@@ -152,7 +152,7 @@ He, Senior Member, IEEE, Renwei Dian, Hao Liu, Haipeng Wang, Kan Wei, A. K. Qin,
 Naoto Yokoya, Member, IEEE, Shutao Li, Fellow, IEEE, Jocelyn Chanussot, Fellow, IEEE, and Danfeng
 Hong, Senior Member, IEEE
  
-Submitted to IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
+IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
 
 - **Introduction**:  In this paper, we provide a comprehensive overview of the MMSeg-YREB challenge, detailing the methodological designs of the Top 3 solutions and making available an open-source codebase for their implementations, along with the multimodal semantic segmentation dataset. 
 - **Key words**: Artificial Intelligence, Benchmark, Challenge, Deep Learning, Land Cover, Large-Scale, Multimodal, Remote Sensing, Semantic Segmentation, WHISPERS, YREB.
