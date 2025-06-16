@@ -21,7 +21,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 # 🗞️ News
 
-## One paper (outcome of 2024 IEEE WHISPERS Multi-Modal Semantic Segmentation Challenge) accepted to JSTAR (2025.06.15).
+## One paper (Outcome of 2024 IEEE WHISPERS Multi-Modal Semantic Segmentation Challenge) accepted to JSTAR (2025.06.15).
 
 ## ✈️✈️We (Ruoyao Xue, Jiepan Li, Zehui Wu, and Wei He) are delighted to inform you we have successfully secured the championship in the Mandarin Audio-Visual Speech Recognition Challenge held by the 19th IEEE International Conference Automatic Face and Gesture Recognition (2025.05.26, Clearwater,USA).
 
