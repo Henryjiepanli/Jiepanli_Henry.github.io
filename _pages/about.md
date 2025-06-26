@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
+I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/), [**Prof. Hongyan Zhang**](https://grzy.cug.edu.cn/zhanghongyan1/zh_CN/index.htm), and [**Prof. Liangpei Zhang**](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
 
 # 🗞️ News
 
