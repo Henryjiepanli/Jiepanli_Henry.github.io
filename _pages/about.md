@@ -147,7 +147,7 @@ IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2025 (Oral)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whispers_jstar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Multimodal Semantic Segmentation in Yangtze River Economic Belt: Outcome of the 2024 IEEE WHISPERS MMSeg-YREB Challenge](https://ieeexplore.ieee.org/document/10641026)
+[Multimodal Semantic Segmentation in Yangtze River Economic Belt: Outcome of the 2024 IEEE WHISPERS MMSeg-YREB Challenge](https://ieeexplore.ieee.org/document/11052626)
 
 **Jiepan Li**, He Huang, Yu Xia, Xian Xu, Yingxin Wu, Qi Guo, Yinhe Liu, Yanfei Zhong, Senior Member, IEEE,
 Jeongho Min, Sungbin Son, Hyeonjin Kim, Jaejun Yoo, Gemine Vivone, Senior Member, IEEE, Chenyu Li, Wei
