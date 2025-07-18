@@ -23,7 +23,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 ## One paper (Outcome of 2024 IEEE WHISPERS Multi-Modal Semantic Segmentation Challenge) accepted to JSTAR (2025.06.15).
 
-## ✈️✈️We (Ruoyao Xue, Jiepan Li, Zehui Wu, and Wei He) are delighted to inform you we have successfully secured the championship in the Mandarin Audio-Visual Speech Recognition Challenge held by the 19th IEEE International Conference Automatic Face and Gesture Recognition (2025.05.26, Clearwater,USA).
+## ✈️✈️We (Ruoyao Xue, <span style="color: red;">Jiepan Li</span>, Zehui Wu, and Wei He) are delighted to inform you we have successfully secured the championship in the Mandarin Audio-Visual Speech Recognition Challenge held by the 19th IEEE International Conference Automatic Face and Gesture Recognition (2025.05.26, Clearwater,USA).
 
 ## ✈️✈️We (Yu Sheng, Jiepan Li, He Huang, Zhiwei Zhang, and Wei He) were awarded the Second Prize in the Land Surface Track of the 2nd Gaofen Earth Observation Application Technology Innovation Competition for the project 'Fine-Scale Crop Classification Using Gaofen Satellite Data' (第二届高分对地观测应用技术创新大赛陆表赛道——基于高分卫星的农作物精细识别技术赛题二等奖, 2025.04.25).
 
