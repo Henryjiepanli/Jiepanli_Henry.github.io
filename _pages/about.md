@@ -25,9 +25,9 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 ## ✈️✈️We (Ruoyao Xue, <span style="color: red;">Jiepan Li</span>, Zehui Wu, and Wei He) are delighted to inform you we have successfully secured the championship in the Mandarin Audio-Visual Speech Recognition Challenge held by the 19th IEEE International Conference Automatic Face and Gesture Recognition (2025.05.26, Clearwater,USA).
 
-## ✈️✈️We (Yu Sheng, Jiepan Li, He Huang, Zhiwei Zhang, and Wei He) were awarded the Second Prize in the Land Surface Track of the 2nd Gaofen Earth Observation Application Technology Innovation Competition for the project 'Fine-Scale Crop Classification Using Gaofen Satellite Data' (第二届高分对地观测应用技术创新大赛陆表赛道——基于高分卫星的农作物精细识别技术赛题二等奖, 2025.04.25).
+## ✈️✈️We (Yu Sheng, <span style="color: red;">Jiepan Li</span>, He Huang, Zhiwei Zhang, and Wei He) were awarded the Second Prize in the Land Surface Track of the 2nd Gaofen Earth Observation Application Technology Innovation Competition for the project 'Fine-Scale Crop Classification Using Gaofen Satellite Data' (第二届高分对地观测应用技术创新大赛陆表赛道——基于高分卫星的农作物精细识别技术赛题二等奖, 2025.04.25).
 
-## ✈️✈️We(Jiepan Li, He Huang, Yu Sheng, Yujun Guo, Wei He) are delighted to inform you we have successfully secured the championship in the second track of [**2025 IEEE GRSS Data Fusion Contest**](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest) (2025.03.28).
+## ✈️✈️We(<span style="color: red;">Jiepan Li</span>, He Huang, Yu Sheng, Yujun Guo, Wei He) are delighted to inform you we have successfully secured the championship in the second track of [**2025 IEEE GRSS Data Fusion Contest**](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest) (2025.03.28).
 <img src='images/2025DFC.jpg' alt="sym" width="100%">
 
 ## We (Jiepan Li, He Huang, Yu Xia) were awarded the champion certificate in the Multi-Modal Semantic Challenge organized by IEEE Whisper (2024.12.11, Finland).
@@ -35,7 +35,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 ## One paper accepted to ISPRS (2024.11.22).
 ## One paper accepted to IEEE Whisper 2024 (Oral).
 
-## ✈️✈️We (Jiepan Li, He Huang, Yu Xia) are delighted to inform you we have successfully secured the championship in the [**2024 IEEE Whispers Multimodal Semantic Segmentation Challenge**](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/).
+## ✈️✈️We (<span style="color: red;">Jiepan Li</span>, He Huang, Yu Xia) are delighted to inform you we have successfully secured the championship in the [**2024 IEEE Whispers Multimodal Semantic Segmentation Challenge**](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/).
 
 ## 🎇🎇I attended the IGARSS2024 conference in Athens, Greece from July 7, 2024 to July 13, 2024.
 ## 🎇🎇I attended the CVPR 2024 conference in Seattle, USA from June 15, 2024 to June 22, 2024.
@@ -44,7 +44,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 ## One co-author paper accepted to CVPR 2024 (Highlight).
 ## One paper accepted to TGRS.
 
-## ✈️✈️We (Jiepan Li, He Huang, Wei He, Hongyan Zhang, Liangpei Zhang) are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
+## ✈️✈️We (<span style="color: red;">Jiepan Li</span>, He Huang, Wei He, Hongyan Zhang, Liangpei Zhang) are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
 <img src='images/DFC.png' alt="sym" width="100%">
 
 ## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
