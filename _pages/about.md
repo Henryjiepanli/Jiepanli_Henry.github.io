@@ -21,6 +21,8 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 # 🗞️ News
 
+## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (Hubei Province) at the China International College Students' Innovation Competition(2025.07.26).
+
 ## One paper (Outcome of 2024 IEEE WHISPERS Multi-Modal Semantic Segmentation Challenge) accepted to JSTAR (2025.06.15).
 
 ## ✈️✈️We (Ruoyao Xue, <span style="color: red;">Jiepan Li</span>, Zehui Wu, and Wei He) are delighted to inform you we have successfully secured the championship in the Mandarin Audio-Visual Speech Recognition Challenge held by the 19th IEEE International Conference Automatic Face and Gesture Recognition (2025.05.26, Clearwater,USA).
