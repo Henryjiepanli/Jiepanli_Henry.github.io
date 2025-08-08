@@ -21,6 +21,8 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 # 🗞️ News
 
+## 🎇🎇I attended the IGARSS 2025 conference in Brisbane, Australia from August 2, 2025 to August 9, 2025.
+
 ## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (Hubei Province) at the China International College Students' Innovation Competition(2025.07.25).
 <img src='images/hlw.jpg' alt="sym" width="100%">
 
