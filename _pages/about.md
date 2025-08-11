@@ -256,7 +256,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 IEEE GRSS Data Fusion Contest Track 2</div><img src='images/dfc25track2.jpg' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 IEEE GRSS Data Fusion Contest Track 2</div><img src='images/DFC25.jpg' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [We ranked first in the track 2 of the Data Fusion Contest 2025（champion）](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest)
