@@ -21,8 +21,11 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 # 🗞️ News
 
-## 🎇🎇I attended the IGARSS 2025 conference in Brisbane, Australia from August 2, 2025 to August 9, 2025.
+## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform has been featured by authoritative Chinese news outlets, including CCTV Video(央视频), People’s Daily(人民日报), and Yangtze River Cloud(长江云)! [**Link**](https://m.hbtv.com.cn/p/4542140.html)
+<video width="1000" playsinline="" autoplay="true" controls="" controlslist="nodownload">  <source src="images/report.mp4" /></video>
 
+## 🎇🎇I attended the IGARSS 2025 conference in Brisbane, Australia from August 2, 2025 to August 9, 2025.
+<img src='images/ceremony.jpg' alt="sym" width="100%">
 ## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (Hubei Province) at the China International College Students' Innovation Competition(2025.07.25).
 <img src='images/hlw.jpg' alt="sym" width="100%">
 
@@ -51,9 +54,6 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 ## ✈️✈️We (<span style="color: red;">Jiepan Li</span>, He Huang, Wei He, Hongyan Zhang, Liangpei Zhang) are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
 <img src='images/DFC.png' alt="sym" width="100%">
-
-## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform System will be online soon!
-<video width="1000" playsinline="" autoplay="true" controls="" controlslist="nodownload">  <source src="images/rs_platform.mp4" /></video>
 
 # 📝 Publications 
 
