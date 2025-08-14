@@ -21,7 +21,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 # 🗞️ News
 
-## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform has been featured by authoritative Chinese news outlets, including CCTV Video(央视频), People’s Daily(人民日报), and Yangtze River Cloud(长江云)! [**Link**](https://m.hbtv.com.cn/p/4542140.html)
+## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform has been featured by authoritative Chinese news outlets, including CCTV Video(央视频), People’s Daily(人民日报), and Changjiang Cloud(长江云)! [**Link**](https://m.hbtv.com.cn/p/4542140.html)
 <div style="display: flex; justify-content: center;">
   <video width="400" playsinline autoplay controls controlslist="nodownload">
     <source src="images/report.mp4" />
