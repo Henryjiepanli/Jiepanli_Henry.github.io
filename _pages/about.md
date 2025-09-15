@@ -83,9 +83,9 @@ Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCS
 
 [Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery](https://arxiv.org/abs/2210.15156)
 
-**Jiepan Li**, Wei He
+**Jiepan Li**, Wei He, Ting Hu, Minghao Tang, Liangpei Zhang
 
-Submitted to IEEE Transactions on Image Processing (TIP)
+Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)
 
 [**Code**](https://github.com/Henryjiepanli/PU_RS)
 - **Introduction**: The core insight of PUGNet is a novel tripartite decomposition of uncertainty into three complementary components: foreground uncertainty (arising from ambiguous object regions), background uncertainty (linked to cluttered or low-contrast nontarget areas), and contextual uncertainty (centered around object boundaries and transition zones).
