@@ -115,7 +115,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2024. (**SCI Q1 T
 
 **Jiepan Li**, Yipan Wei, Tiangao Wei, Wei He.
  
-IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025. (**SCI Q1 TOP, IF=8.6**) 
+IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025. (**SCI Q1 TOP, IF=8.6**) (**ESI Highly Cited Paper**)
 
 [**Code**](https://github.com/Henryjiepanli/DBBANet) [**Data**](https://pan.baidu.com/s/1kdGAowJ2Dcqyn-dUQWLHJA?pwd=FGFD)
 - **Introduction**: A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.
