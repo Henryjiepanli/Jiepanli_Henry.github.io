@@ -70,8 +70,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 **Jiepan Li**, Wei He, Fangxiao Lu, Hongyan Zhang 
 
-Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-
+IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025. (**SCI Q1 TOP, IF=11.1**)
 [**Code**](https://github.com/Henryjiepanli/DAD)
 - **Introduction**: A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.
 - **Key words**: Binary segmentation, camouflaged object detection, salient object detection, polyp segmentation, mirror detection.
