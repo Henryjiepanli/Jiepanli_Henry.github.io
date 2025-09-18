@@ -20,7 +20,7 @@ redirect_from:
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/), [**Prof. Hongyan Zhang**](https://grzy.cug.edu.cn/zhanghongyan1/zh_CN/index.htm), and [**Prof. Liangpei Zhang**](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
 
 # 🗞️ News
-
+## One paper accepted to TCSVT (2025.09.18).
 ## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform has been featured by authoritative Chinese news outlets, including CCTV Video(央视频), People’s Daily(人民日报), and Changjiang Cloud(长江云)! [**Link**](https://m.hbtv.com.cn/p/4542140.html)
 <div style="display: flex; justify-content: center;">
   <video width="400" playsinline autoplay controls controlslist="nodownload">
