@@ -66,7 +66,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Difference-Aware Decoder(DAD)</div><img src='images/owinca.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://arxiv.org/abs/2210.15156)
+[Towards Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation](https://ieeexplore.ieee.org/document/11175179)
 
 **Jiepan Li**, Wei He, Fangxiao Lu, Hongyan Zhang 
 
