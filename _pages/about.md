@@ -20,6 +20,9 @@ redirect_from:
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/), [**Prof. Hongyan Zhang**](https://grzy.cug.edu.cn/zhanghongyan1/zh_CN/index.htm), and [**Prof. Liangpei Zhang**](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
 
 # 🗞️ News
+## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (CHINA) at the China International College Students' Innovation Competition, creating the history of Wuhan University(2025.10.14)[link](https://mp.weixin.qq.com/s/CxSQkn_ngFzsqmUkt7e9AQ).
+<img src='images/gcs.jpg' alt="sym" width="100%">
+
 ## First Prize of Graduate Academic Innovation Scholarship, WHU, 2025 | 2025年武汉大学“研究生学术创新奖”一等奖(50,000 RMB).
 ## Geographic Information Science and Technology Progress Award of China (Extra Prize, Rank 10).
 ## One paper accepted to TCSVT (2025.09.18).
@@ -32,6 +35,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 ## 🎇🎇I attended the IGARSS 2025 conference and the award ceremony in Brisbane, Australia, from August 2 to August 9, 2025.
 <img src='images/ceremony.jpg' alt="sym" width="100%">
+
 ## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (Hubei Province) at the China International College Students' Innovation Competition(2025.07.25).
 <img src='images/hlw.jpg' alt="sym" width="100%">
 
