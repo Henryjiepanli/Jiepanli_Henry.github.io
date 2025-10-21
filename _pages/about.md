@@ -313,9 +313,9 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MAC2025: the 2nd Micro-Action Analysis Grand Challenge</div><img src='images/acm_mm.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-We ranked 4th in the 2nd Micro-Action Analysis Grand Challenge at the 33rd ACM Multimedia Conference (October 27–31, 2025, Dublin, Ireland).
+[We ranked 4th in the 2nd Micro-Action Analysis Grand Challenge at the 33rd ACM Multimedia Conference (October 27–31, 2025, Dublin, Ireland)](https://sites.google.com/view/micro-action).
 
-- **Introduction:** [The Micro-Action Analysis Grand Challenge focuses on computer vision and machine learning methods for automatic human behavior based on whole-body micro-action that is bound up with psychological and mental state and emotion state analysis](https://sites.google.com/view/micro-action).  
+- **Introduction:** The Micro-Action Analysis Grand Challenge focuses on computer vision and machine learning methods for automatic human behavior based on whole-body micro-action that is bound up with psychological and mental state and emotion state analysis.  
 - **Key words:** deep psychological assessment, emotional state analysis
 </div>
 </div>
