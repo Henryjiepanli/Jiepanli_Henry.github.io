@@ -20,6 +20,8 @@ redirect_from:
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/), [**Prof. Hongyan Zhang**](https://grzy.cug.edu.cn/zhanghongyan1/zh_CN/index.htm), and [**Prof. Liangpei Zhang**](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
 
 # 🗞️ News
+## I am honored to be recognized as the Outstanding Graduate Student of Wuhan University (the only recipient from LIESMARS)|武汉大学2024—2025学年度“优秀研究生标兵”(2025.10.21)[link](https://liesmars.whu.edu.cn/info/1058/66829.htm).
+
 ## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (CHINA) at the China International College Students' Innovation Competition, creating the history of Wuhan University(2025.10.14)[link](https://mp.weixin.qq.com/s/CxSQkn_ngFzsqmUkt7e9AQ).
 <img src='images/gcs.jpg' alt="sym" width="100%">
 
@@ -305,6 +307,16 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 
 - **Introduction:** Track-2 focuses on mapping the water surface from Copernicus Sentinel-2 and Landsat optical imageries. 
 - **Key words:** Multi-spectral data, Flood rapid mapping
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MAC2025: the 2nd Micro-Action Analysis Grand Challenge</div><img src='images/acm_mm.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+We ranked 4th in the 2nd Micro-Action Analysis Grand Challenge at the 33rd ACM Multimedia Conference (October 27–31, 2025, Dublin, Ireland).
+
+- **Introduction:** The Micro-Action Analysis Grand Challenge focuses on computer vision and machine learning methods for automatic human behavior based on whole-body micro-action that is bound up with psychological and mental state and emotion state analysis.  
+- **Key words:** deep psychological assessment, emotional state analysis
 </div>
 </div>
 
