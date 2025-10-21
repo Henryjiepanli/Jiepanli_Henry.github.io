@@ -26,7 +26,8 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 <img src='images/gcs.jpg' alt="sym" width="100%">
 
 ## First Prize of Graduate Academic Innovation Scholarship, WHU, 2025 | 2025年武汉大学“研究生学术创新奖”一等奖(50,000 RMB).
-## Geographic Information Science and Technology Progress Award of China (Extra Prize, Rank 10).
+## Geographic Information Science and Technology Progress Award of China (Extra Prize, Rank 10)|2025地理信息科技进步特等奖[link](https://mp.weixin.qq.com/s/oka1vsTNKUHXN-Ac9okcCw).
+
 ## One paper accepted to TCSVT (2025.09.18).
 ## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform has been featured by authoritative Chinese news outlets, including CCTV Video(央视频), People’s Daily(人民日报), and Changjiang Cloud(长江云)! [**Link**](https://m.hbtv.com.cn/p/4542140.html)
 <div style="display: flex; justify-content: center;">
