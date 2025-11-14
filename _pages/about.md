@@ -40,7 +40,6 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 <img src='images/ceremony.jpg' alt="sym" width="100%">
 
 ## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (Hubei Province) at the China International College Students' Innovation Competition(2025.07.25).
-<img src='images/hlw.jpg' alt="sym" width="100%">
 
 ## One paper (Outcome of 2024 IEEE WHISPERS Multi-Modal Semantic Segmentation Challenge) accepted to JSTAR (2025.06.15).
 
