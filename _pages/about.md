@@ -147,6 +147,21 @@ ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025. (**SCI Q1 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/hkxb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+灾前建筑物掩码引导的航天遥感建筑物受损变化检测方法(Pre-Disaster Building Footprint–Guided Satellite Remote Sensing 
+Building Damage Change Detection)
+
+**Jiepan Li**, Wei He, Minghao Tang, Jin Xiong
+ 
+Chinese Journal of Aeronautics (航空学报)
+
+- **Introduction**: To address the challenges of geometric misalignment, background interference, and feature alignment difficulties in multi-temporal and cross-modal remote sensing imagery, we propose a Pre-Disaster Footprint–Guided Change-Aware Damage Detection Network (PDF-Net).
+- **Key words**: Remote sensing; deep learning; disaster; change detection; building damage
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/BGLU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
