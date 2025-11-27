@@ -165,7 +165,7 @@ Chinese Journal of Aeronautics (航空学报)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/BGLU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping](http://arxiv.org/abs/2505.04941)
+[Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping](https://ieeexplore.ieee.org/document/11243835)
 
 **Jiepan Li**, He Huang. Yu Sheng, Yujun Guo, Wei He
  
