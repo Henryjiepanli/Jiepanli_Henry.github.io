@@ -449,6 +449,28 @@ Zhuohong Li, Wei He, **Jiepan Li**, Fangxiao Lu, Hongyan Zhang
 
 CVPR2024 (**CCF-A**) -->
 
+# 🧑‍🎓Awards and Honors
+2025 — Pacemaker to Outstanding Graduate Students, Wuhan University
+武汉大学优秀研究生标兵
+
+2025 — First Prize, Graduate Academic Innovation Scholarship, Wuhan University
+武汉大学“研究生学术创新奖”一等奖
+
+2025 — Gold Medal (China Division), China International College Students’ Innovation Competition
+中国国际大学生创新大赛 全国金奖
+
+2025 — Champion, IEEE GRSS Data Fusion Contest (Track 2)
+2025 年 IEEE GRSS 全球数据融合大赛（赛道二）冠军
+
+2024 — Champion, IEEE GRSS Data Fusion Contest (Track 1)
+2024 年 IEEE GRSS 全球数据融合大赛（赛道一）冠军
+
+2024 — Champion, IEEE GRSS Data Fusion Contest (Track 2)
+2024 年 IEEE GRSS 全球数据融合大赛（赛道二）冠军
+
+2024 — Champion, IEEE WHISPERS Multimodal Semantic Segmentation Challenge
+2024 年 IEEE WHISPERS 全球多模态语义分割竞赛冠军
+
 # 🐅Academic Service
 - **Journal Reviewer**: Conference on Computer Vision and Pattern Recognition (CVPR), Remote Sensing of Environment (RSE), ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE GRSL, Discover Artificial Intelligence, Scientific Reports, Big Earth Data, IEEE Access, Smart Agricultural Technology, Measurement, Signal, Image and Video Processing, Frontiers.
 
