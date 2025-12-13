@@ -150,8 +150,7 @@ ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025. (**SCI Q1 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/hkxb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-灾前建筑物掩码引导的航天遥感建筑物受损变化检测方法(Pre-Disaster Building Footprint–Guided Satellite Remote Sensing 
-Building Damage Change Detection)
+[灾前建筑物掩码引导的航天遥感建筑物受损变化检测方法](https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2025.32845)(Pre-Disaster Building Footprint–Guided Satellite Remote Sensing Building Damage Change Detection)
 
 **Jiepan Li**, Wei He, Minghao Tang, Jin Xiong
  
