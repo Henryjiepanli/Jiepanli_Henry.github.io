@@ -224,17 +224,6 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 
 
 # 🎖 Contests
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">19th IEEE International Conference Automatic Face and Gesture Recognition</div><img src='images/cysb.png' alt="sym"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[We ranked first in the Mandarin Audio-Visual Speech Recognition Challenge（champion）](https://codalab.lisn.upsaclay.fr/competitions/21609)
-
-- **Introduction:** we propose the Context-Enhanced Visual Speech Recognition Network (ConVSR), specifically designed to improve Chinese lip reading. ConVSR incorporates intermediate connectionist temporal classification (inter CTC) residual modules to provide enhanced CTC supervision, improving the model’s contextual comprehension. Additionally, a Bi-Transformer Decoder is employed to simultaneously capture both past and future contextual information, thereby strengthening the model’s semantic understanding..
-
-- **Key words:** Chinese Lip reading
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 IEEE GRSS Data Fusion Contest Track 2</div><img src='images/DFC25.jpg' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -275,6 +264,17 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 
 - **Introduction:** Track-2 focuses on mapping the water surface from Copernicus Sentinel-2 and Landsat optical imageries. 
 - **Key words:** Multi-spectral data, Flood rapid mapping
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">19th IEEE International Conference Automatic Face and Gesture Recognition</div><img src='images/cysb.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[We ranked first in the Mandarin Audio-Visual Speech Recognition Challenge（champion）](https://codalab.lisn.upsaclay.fr/competitions/21609)
+
+- **Introduction:** we propose the Context-Enhanced Visual Speech Recognition Network (ConVSR), specifically designed to improve Chinese lip reading. ConVSR incorporates intermediate connectionist temporal classification (inter CTC) residual modules to provide enhanced CTC supervision, improving the model’s contextual comprehension. Additionally, a Bi-Transformer Decoder is employed to simultaneously capture both past and future contextual information, thereby strengthening the model’s semantic understanding..
+
+- **Key words:** Chinese Lip reading
 </div>
 </div>
 
