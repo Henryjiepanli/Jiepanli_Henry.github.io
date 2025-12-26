@@ -148,34 +148,6 @@ ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025. (**SCI Q1 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/hkxb.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[灾前建筑物掩码引导的航天遥感建筑物受损变化检测方法](https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2025.32845)(Pre-Disaster Building Footprint–Guided Satellite Remote Sensing Building Damage Change Detection)
-
-**Jiepan Li**, Wei He, Minghao Tang, Jin Xiong
- 
-Chinese Journal of Aeronautics (航空学报)
-
-- **Introduction**: To address the challenges of geometric misalignment, background interference, and feature alignment difficulties in multi-temporal and cross-modal remote sensing imagery, we propose a Pre-Disaster Footprint–Guided Change-Aware Damage Detection Network (PDF-Net).
-- **Key words**: Remote sensing; deep learning; disaster; change detection; building damage
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/BGLU.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping](https://ieeexplore.ieee.org/document/11243835)
-
-**Jiepan Li**, He Huang. Yu Sheng, Yujun Guo, Wei He
- 
-IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2025 (Oral) [**Code**](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)
-
-- **Introduction**: This study proposes a novel Building-Guided Pseudo-Label Learning Framework to address the challenges of mapping building damage from pre-disaster optical and post-disaster SAR images. Experimental results on the 2025 IEEE GRSS Data Fusion Contest dataset demonstrate the effectiveness of our approach, which achieved the highest mIoU score (54.28%) and **secured first place in the competition**. 
-- **Key words**: Building damage mapping, cross-modal, change detection
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whispers_jstar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -208,6 +180,36 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - **Key words**: Transformers, convolutional neural networks, deep learning, data fusion, flood mapping, remote sensing.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/hkxb.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[灾前建筑物掩码引导的航天遥感建筑物受损变化检测方法](https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2025.32845)(Pre-Disaster Building Footprint–Guided Satellite Remote Sensing Building Damage Change Detection)
+
+**Jiepan Li**, Wei He, Minghao Tang, Jin Xiong
+ 
+Chinese Journal of Aeronautics (航空学报)
+
+- **Introduction**: To address the challenges of geometric misalignment, background interference, and feature alignment difficulties in multi-temporal and cross-modal remote sensing imagery, we propose a Pre-Disaster Footprint–Guided Change-Aware Damage Detection Network (PDF-Net).
+- **Key words**: Remote sensing; deep learning; disaster; change detection; building damage
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Building Damage Mapping</div><img src='images/BGLU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping](https://ieeexplore.ieee.org/document/11243835)
+
+**Jiepan Li**, He Huang. Yu Sheng, Yujun Guo, Wei He
+ 
+IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2025 (Oral) [**Code**](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)
+
+- **Introduction**: This study proposes a novel Building-Guided Pseudo-Label Learning Framework to address the challenges of mapping building damage from pre-disaster optical and post-disaster SAR images. Experimental results on the 2025 IEEE GRSS Data Fusion Contest dataset demonstrate the effectiveness of our approach, which achieved the highest mIoU score (54.28%) and **secured first place in the competition**. 
+- **Key words**: Building damage mapping, cross-modal, change detection
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover Mapping(Sentinel-1 &2)</div><img src='images/whisper.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
