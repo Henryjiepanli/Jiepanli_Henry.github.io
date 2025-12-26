@@ -324,31 +324,31 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 </div>
 
 # 🧑‍🎓Awards and Honors
-2025 — Pacemaker to Outstanding Graduate Students, Wuhan University
+- 2025 — Pacemaker to Outstanding Graduate Students, Wuhan University
 武汉大学优秀研究生标兵
 
-2025 — First Prize, Graduate Academic Innovation Scholarship, Wuhan University
+- 2025 — First Prize, Graduate Academic Innovation Scholarship, Wuhan University
 武汉大学“研究生学术创新奖”一等奖
 
-2025 — Gold Medal (China Division), China International College Students’ Innovation Competition
+- 2025 — Gold Medal (China Division), China International College Students’ Innovation Competition
 中国国际大学生创新大赛 全国金奖
 
-2025 — Champion, IEEE GRSS Data Fusion Contest (Track 2)
+- 2025 — Champion, IEEE GRSS Data Fusion Contest (Track 2)
 2025 年 IEEE GRSS 全球数据融合大赛（赛道二）冠军
 
-2024 — Champion, IEEE GRSS Data Fusion Contest (Track 1)
+- 2024 — Champion, IEEE GRSS Data Fusion Contest (Track 1)
 2024 年 IEEE GRSS 全球数据融合大赛（赛道一）冠军
 
-2024 — Champion, IEEE GRSS Data Fusion Contest (Track 2)
+- 2024 — Champion, IEEE GRSS Data Fusion Contest (Track 2)
 2024 年 IEEE GRSS 全球数据融合大赛（赛道二）冠军
 
-2024 — Champion, IEEE WHISPERS Multimodal Semantic Segmentation Challenge
+- 2024 — Champion, IEEE WHISPERS Multimodal Semantic Segmentation Challenge
 2024 年 IEEE WHISPERS 全球多模态语义分割竞赛冠军
 
-2024&2025 — First-Class Academic Excellence Scholarship, Wuhan University
+- 2024&2025 — First-Class Academic Excellence Scholarship, Wuhan University
 2024年，2025年武汉大学研究生一等优秀学业奖学金
 
-2024 — Huawei Scholarship, Wuhan University
+- 2024 — Huawei Scholarship, Wuhan University
 2024年武汉大学华为奖学金
 
 
