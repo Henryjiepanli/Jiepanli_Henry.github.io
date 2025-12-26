@@ -82,7 +82,7 @@ IEEE Transactions on Geoscience and Remote Sensing (**TGRS**), 2025. (**SCI Q1 T
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2.Landcover mapping</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Landcover mapping</div><img src='images/CVPR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels](https://arxiv.org/html/2403.02746v1)
