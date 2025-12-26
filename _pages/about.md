@@ -312,10 +312,10 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">第五届“中科星图杯”国际高分遥感图像解译大赛</div><img src='images/gfbs.png' alt="sym"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 5th “GeoStar Cup” International High-Resolution Remote Sensing Image Interpretation Competition</div><img src='images/gfbs.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[高分辨率SAR图像中近海养殖场分割赛道决赛第六名](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
+[Sixth Place in the Finals of the Offshore Aquaculture Segmentation Track for High-Resolution SAR Images](https://mp.weixin.qq.com/s/NrWI8nsmhiD-4PJ0XzSE4g)
 
 - **Introduction:** We propose an efficient solution to achieve the farm segmentation from SAR data.
 
@@ -344,6 +344,12 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 
 2024 — Champion, IEEE WHISPERS Multimodal Semantic Segmentation Challenge
 2024 年 IEEE WHISPERS 全球多模态语义分割竞赛冠军
+
+2024&2025 — First-Class Academic Excellence Scholarship, Wuhan University
+2024年，2025年武汉大学研究生一等优秀学业奖学金
+
+2024 — Huawei Scholarship, Wuhan University
+2024年武汉大学华为奖学金
 
 
 # 🐅Academic Service
