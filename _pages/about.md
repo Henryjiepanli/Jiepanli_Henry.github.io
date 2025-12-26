@@ -20,7 +20,7 @@ redirect_from:
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/), [**Prof. Hongyan Zhang**](https://grzy.cug.edu.cn/zhanghongyan1/zh_CN/index.htm), and [**Prof. Liangpei Zhang**](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
 
 # 🗞️ News
-## One paper (Outcome of the 2024 IEEE GRSS Data Fusion Contest) accepted to JSTAR (2025.12.26).
+## One paper (Outcome of the 2024 IEEE GRSS Data Fusion Contest) accepted to JSTARS (2025.12.26).
 ## One paper accepted to Chinese Journal of Aeronautics (航空学报，2025.11.25).
 ## I am honored to be recognized as the Outstanding Graduate Student of Wuhan University (the only recipient from LIESMARS)|武汉大学2024—2025学年度“优秀研究生标兵”(2025.10.21)[link](https://liesmars.whu.edu.cn/info/1058/66829.htm).
 
@@ -43,7 +43,7 @@ I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Enginee
 
 ## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (Hubei Province) at the China International College Students' Innovation Competition(2025.07.25).
 
-## One paper (Outcome of 2024 IEEE WHISPERS Multi-Modal Semantic Segmentation Challenge) accepted to JSTAR (2025.06.15).
+## One paper (Outcome of 2024 IEEE WHISPERS Multi-Modal Semantic Segmentation Challenge) accepted to JSTARS (2025.06.15).
 
 ## ✈️✈️We (Ruoyao Xue, <span style="color: red;">Jiepan Li</span>, Zehui Wu, and Wei He) are delighted to inform you we have successfully secured the championship in the Mandarin Audio-Visual Speech Recognition Challenge held by the 19th IEEE International Conference Automatic Face and Gesture Recognition (2025.05.26, Clearwater,USA).
 
