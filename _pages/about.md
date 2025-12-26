@@ -330,8 +330,11 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 - 2025 — First Prize, Graduate Academic Innovation Scholarship, Wuhan University
 武汉大学“研究生学术创新奖”一等奖
 
-- 2025 — Gold Medal (China Division), China International College Students’ Innovation Competition
+- 2025 — Gold Medal (China), China International College Students’ Innovation Competition
 中国国际大学生创新大赛 全国金奖
+
+- 2025 — Gold Medal (Hubei Province), China International College Students’ Innovation Competition
+中国国际大学生创新大赛 湖北省金奖
 
 - 2025 — Champion, IEEE GRSS Data Fusion Contest (Track 2)
 2025 年 IEEE GRSS 全球数据融合大赛（赛道二）冠军
