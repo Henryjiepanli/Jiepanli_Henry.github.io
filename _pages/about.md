@@ -19,56 +19,6 @@ redirect_from:
 
 I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/), [**Prof. Hongyan Zhang**](https://grzy.cug.edu.cn/zhanghongyan1/zh_CN/index.htm), and [**Prof. Liangpei Zhang**](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
 
-# 🗞️ News
-## One paper (Outcome of the 2024 IEEE GRSS Data Fusion Contest) accepted to JSTARS (2025.12.26).
-## One paper accepted to Chinese Journal of Aeronautics (航空学报，2025.11.25).
-## I am honored to be recognized as the Outstanding Graduate Student of Wuhan University (the only recipient from LIESMARS)|武汉大学2024—2025学年度“优秀研究生标兵”(2025.10.21)[link](https://liesmars.whu.edu.cn/info/1058/66829.htm).
-
-## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (CHINA) at the China International College Students' Innovation Competition, creating the history of Wuhan University(2025.10.14)[link](https://mp.weixin.qq.com/s/CxSQkn_ngFzsqmUkt7e9AQ).
- <img src='images/gcs.jpg' alt="sym" width="100%"> 
-
-## First Prize of Graduate Academic Innovation Scholarship, WHU, 2025 | 2025年武汉大学“研究生学术创新奖”一等奖(50,000 RMB).
-## Geographic Information Science and Technology Progress Award of China (Extra Prize, Rank 10)|2025地理信息科技进步特等奖[link](https://mp.weixin.qq.com/s/oka1vsTNKUHXN-Ac9okcCw).
-
-## One paper accepted to TCSVT (2025.09.18).
-## ❤️💻 Our Remote Sensing Intelligent Interpretation Platform has been featured by authoritative Chinese news outlets, including CCTV Video(央视频), People’s Daily(人民日报), and Changjiang Cloud(长江云)! [**Link**](https://m.hbtv.com.cn/p/4542140.html)
-<div style="display: flex; justify-content: center;">
-  <video width="400" playsinline autoplay controls controlslist="nodownload">
-    <source src="images/report.mp4" />
-  </video>
-</div> 
-
-## 🎇🎇I attended the IGARSS 2025 conference and the award ceremony in Brisbane, Australia, from August 2 to August 9, 2025.
-<img src='images/ceremony.jpg' alt="sym" width="100%">
-
-## We (Leader: <span style="color: red;">Jiepan Li</span>) were awarded the Gold Medal (Hubei Province) at the China International College Students' Innovation Competition(2025.07.25).
-
-## One paper (Outcome of 2024 IEEE WHISPERS Multi-Modal Semantic Segmentation Challenge) accepted to JSTARS (2025.06.15).
-
-## ✈️✈️We (Ruoyao Xue, <span style="color: red;">Jiepan Li</span>, Zehui Wu, and Wei He) are delighted to inform you we have successfully secured the championship in the Mandarin Audio-Visual Speech Recognition Challenge held by the 19th IEEE International Conference Automatic Face and Gesture Recognition (2025.05.26, Clearwater,USA).
-
-## ✈️✈️We (Yu Sheng, <span style="color: red;">Jiepan Li</span>, He Huang, Zhiwei Zhang, and Wei He) were awarded the Second Prize in the Land Surface Track of the 2nd Gaofen Earth Observation Application Technology Innovation Competition for the project 'Fine-Scale Crop Classification Using Gaofen Satellite Data' (第二届高分对地观测应用技术创新大赛陆表赛道——基于高分卫星的农作物精细识别技术赛题二等奖, 2025.04.25).
-
-## ✈️✈️We(<span style="color: red;">Jiepan Li</span>, He Huang, Yu Sheng, Yujun Guo, Wei He) are delighted to inform you we have successfully secured the championship in the second track of [**2025 IEEE GRSS Data Fusion Contest**](https://www.grss-ieee.org/technical-committees/image-analysis-and-data-fusion/?tab=data-fusion-contest) (2025.03.28).
-<img src='images/2025DFC.jpg' alt="sym" width="100%">
-
-## We (Jiepan Li, He Huang, Yu Xia) were awarded the champion certificate in the Multi-Modal Semantic Challenge organized by IEEE Whisper (2024.12.11, Finland).
-## One paper accepted to TGRS (2024.12.02).
-## One paper accepted to ISPRS (2024.11.22).
-## One paper accepted to IEEE Whisper 2024 (Oral).
-
-## ✈️✈️We (<span style="color: red;">Jiepan Li</span>, He Huang, Yu Xia) are delighted to inform you we have successfully secured the championship in the [**2024 IEEE Whispers Multimodal Semantic Segmentation Challenge**](https://www.ieee-whispers.com/multimodal-semantic-segmentation-challenge/).
-
-## 🎇🎇I attended the IGARSS2024 conference in Athens, Greece from July 7, 2024 to July 13, 2024.
-## 🎇🎇I attended the CVPR 2024 conference in Seattle, USA from June 15, 2024 to June 22, 2024.
-
-## Two papers accepted to IGARSS 2024 (Oral).
-## One co-author paper accepted to CVPR 2024 (Highlight).
-## One paper accepted to TGRS.
-
-## ✈️✈️We (<span style="color: red;">Jiepan Li</span>, He Huang, Wei He, Hongyan Zhang, Liangpei Zhang) are delighted to inform you we have successfully secured the double track championship in the [**2024 IEEE GRSS Data Fusion Contest**](https://codalab.lisn.upsaclay.fr/competitions/16702).
-<img src='images/DFC.png' alt="sym" width="100%"> 
-
 # 📝 Publications 
 
 ## General Visual Interpretation
