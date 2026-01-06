@@ -40,13 +40,12 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progressive Uncertainty-Guided Network(PUGNet)</div><img src='images/PUGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery](https://arxiv.org/abs/2210.15156)
+Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery
 
 **Jiepan Li**, Wei He, Ting Hu, Minghao Tang, Liangpei Zhang
 
-Submitted to ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**)
+ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2026. (**SCI Q1 TOP, IF=12.2**) [**Code**](https://github.com/Henryjiepanli/PU_RS)
 
-[**Code**](https://github.com/Henryjiepanli/PU_RS)
 - **Introduction**: The core insight of PUGNet is a novel tripartite decomposition of uncertainty into three complementary components: foreground uncertainty (arising from ambiguous object regions), background uncertainty (linked to cluttered or low-contrast nontarget areas), and contextual uncertainty (centered around object boundaries and transition zones).
 - **Key words**: —Remote sensing, building extraction, building change detection, cropland extraction, and uncertainty
 </div>
