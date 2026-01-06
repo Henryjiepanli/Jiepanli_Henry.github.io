@@ -133,7 +133,7 @@ IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Flood Mapping(Sentinel-1 &2)</div><img src='images/dfc_2024_jstar.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest](https://ieeexplore.ieee.org/document/10641026)
+Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest
 
  **Jiepan Li**, He Huang, Wei~He,Hongyan~Zhang, Liangpei~Zhang, Ting~Liu, Mengke~Yuan, Chaoran~Lu, Kaixuan~Lu, Baochai~Peng, Heyang~Duan, Mengya~Li, Pan~Zhang, Tao~Wang, Tongkui~Liao, Yansheng~Li, Bo~Dang, Fanyi~Wei, Jieyi~Tan, Yangjie~Lin, Claudio~Persello, Saurabh~Prasad, Gemine~Vivone, Vincent~Lonjou, Frédéric~Bretar, Raquel~Rodriguez Suquet,Pauline~Guntzburger, 
  Vincent~Poulain, Jacqueline~Le~Moigne, Benjamin~Smith, Sujay~Kumar, Thomas~Huang, Sophie~Ricci,Thanh~Huy~Nguyen, Andrea~Piacentini
