@@ -40,7 +40,7 @@ IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**), 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Progressive Uncertainty-Guided Network(PUGNet)</div><img src='images/PUGNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery
+[Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery](https://doi.org/10.1016/j.isprsjprs.2026.01.010)
 
 **Jiepan Li**, Wei He, Ting Hu, Minghao Tang, Liangpei Zhang
 
