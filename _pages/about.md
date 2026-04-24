@@ -361,7 +361,7 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 
 
 # 🐅Academic Service
-- **Reviewer**: NeurIPS, Conference on Computer Vision and Pattern Recognition (CVPR), Remote Sensing of Environment (RSE), ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), IEEE GRSL, Discover Artificial Intelligence, Scientific Reports, Big Earth Data, IEEE Access, Smart Agricultural Technology, Measurement, Signal, Image and Video Processing, Frontiers.
+- **Reviewer**: NeurIPS, Conference on Computer Vision and Pattern Recognition (CVPR), ACMMM, Remote Sensing of Environment (RSE), ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), IEEE GRSL, Discover Artificial Intelligence, Scientific Reports, Big Earth Data, IEEE Access, Smart Agricultural Technology, Measurement, Signal, Image and Video Processing, Frontiers.
 
 # 📖 Educations
 - *2020.06 - 2023.07 (now)*, State Key Laboratory of Information Engineering in Surveying,
