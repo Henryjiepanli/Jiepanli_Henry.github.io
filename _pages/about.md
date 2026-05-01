@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by [**Prof. Wei He**](https://prowdiy.github.io/weihe.github.io/), [**Prof. Hongyan Zhang**](https://grzy.cug.edu.cn/zhanghongyan1/zh_CN/index.htm), and [**Prof. Liangpei Zhang**](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models.**
+I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by Prof. Wei He, Prof. Hongyan Zhang, and Prof. Liangpei Zhang. **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models**. I will join LIESMARS as a Hongyi Postdoctoral Fellow in July 2026.
 
 # 📝 Selected Publications 
 
@@ -365,6 +365,6 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 - **Reviewer (Journal)**: Remote Sensing of Environment (RSE), ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), IEEE Transactions on Image Processing (TIP), IEEE Transactions on Geoscience and Remote Sensing (TGRS), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), IEEE GRSL, Discover Artificial Intelligence, Scientific Reports, Big Earth Data, IEEE Access, Smart Agricultural Technology, Measurement, Signal, Image and Video Processing, Frontiers.
 
 # 📖 Educations
-- *2020.06 - 2023.07 (now)*, State Key Laboratory of Information Engineering in Surveying,
+- *2020.06 - 2026.06*, State Key Laboratory of Information Engineering in Surveying,
   Mapping and Remote Sensing (LIESMARS), Wuhan University. 
 - *2016.09 - 2020.06*, School of Electronic Information, Wuhan University. 
