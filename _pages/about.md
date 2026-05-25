@@ -324,6 +324,9 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 
 # 🧑‍🎓Awards and Honors
 - 2025 — Pacemaker to Outstanding Graduate Students, Wuhan University
+武汉大学十大珞珈风云学子
+
+- 2025 — Pacemaker to Outstanding Graduate Students, Wuhan University
 武汉大学优秀研究生标兵
 
 - 2025 — Extra Prize, Wang Zhizhuo Innovative Talent Scholarship, Wuhan University
