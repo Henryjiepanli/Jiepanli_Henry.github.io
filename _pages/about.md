@@ -97,8 +97,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR2024, Highlight) (**C
 </div>
 
 ## Multi-Temporal/Modal Visual Interpretation
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rapid Flood Mapping/div><img src='images/ai-geoflood.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rapid Flood Mapping</div><img src='images/UA-BCD.png' alt="sym" width="85%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Toward Rapid Flood Mapping Anywhere via Geographically Conditioned Cross-modal Inference
