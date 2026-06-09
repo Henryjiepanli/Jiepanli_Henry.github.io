@@ -97,7 +97,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR2024, Highlight) (**C
 </div>
 
 ## Multi-Temporal/Modal Visual Interpretation
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rapid Flood Mapping</div><img src='images/ai-geoflood.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rapid Flood Mapping</div><img src='images/ai-geoflood.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Toward Rapid Flood Mapping Anywhere via Geographically Conditioned Cross-modal Inference
@@ -106,7 +106,7 @@ Toward Rapid Flood Mapping Anywhere via Geographically Conditioned Cross-modal I
  
 Submitted to Remote Sensing of Environment(**RSE**), 2026.  [**Code**](https://github.com/Henryjiepanli/GeoFlood-275/tree/main)
 
-- **Introduction**: GeoFloodNet rethinks rapid flood mapping as a geographically conditioned cross-modal inference problem. Instead of treating optical–SAR differences as universal flood cues, it interprets flood evidence under local terrain and land-cover context, enabling more reliable event-induced inundation mapping across diverse geographic environments. This project presents GeoFloodNet, a geographically conditioned optical–SAR fusion framework, and GeoFlood-275, a global event-level benchmark for evaluating transferable flood mapping models. An online flood monitoring platform powered by GeoFloodNet is coming soon, allowing users to upload custom AOIs, select monitoring periods, run flood extraction online, and download inundation results.
+- **Introduction**: GeoFloodNet rethinks rapid flood mapping as a geographically conditioned cross-modal inference problem. Instead of treating optical–SAR differences as universal flood cues, it interprets flood evidence under local terrain and land-cover context, enabling more reliable event-induced inundation mapping across diverse geographic environments. This project presents GeoFloodNet, a geographically conditioned optical–SAR fusion framework, and GeoFlood-275, a global event-level benchmark for evaluating transferable flood mapping models. 
 - **Key words**: Rapid flood mapping, remote sensing, global transferability, Sentinel-1/Sentinel-2
 </div>
 </div>
