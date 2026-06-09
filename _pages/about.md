@@ -101,6 +101,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR2024, Highlight) (**C
 <div class='paper-box-text' markdown="1">
 
 Toward Rapid Flood Mapping Anywhere via Geographically Conditioned Cross-modal Inference
+
 **Jiepan Li**, He Huang, Wenke Li, Linxin Li, Anqi Xie, Ruoru Ye, Lei Hu, Ting Hu, Wei He, and Liangpei Zhang
  
 Submitted to Remote Sensing of Environment(**RSE**), 2026.  [**Code**](https://github.com/Henryjiepanli/GeoFlood-275/tree/main)
