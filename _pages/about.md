@@ -104,9 +104,9 @@ Conference on Computer Vision and Pattern Recognition (CVPR2024, Highlight) (**C
 Toward Rapid Flood Mapping Anywhere via Geographically Conditioned Cross-modal Inference
 **Jiepan Li**, He Huang, Wenke Li, Linxin Li, Anqi Xie, Ruoru Ye, Lei Hu, Ting Hu, Wei He, and Liangpei Zhang
  
-Submitted to Remote Sensing of Environment(**RSE**), 2026. (**SCI Q1 TOP, IF=11.1**) [**Code**](https://github.com/Henryjiepanli/GeoFlood-275/tree/main)
+Submitted to Remote Sensing of Environment(**RSE**), 2026.  [**Code**](https://github.com/Henryjiepanli/GeoFlood-275/tree/main)
 
-- **Introduction**: Most cross-modal flood mapping methods treat differences between pre-event optical imagery and post-event SAR imagery as direct flood cues. GeoFloodNet instead asks: "Is the observed optical–SAR evidence flood-relevant under the local terrain and land-cover context?" This project introduces a geographically conditioned optical–SAR fusion framework (GeoFloodNet) for rapid event-induced inundation mapping; a global event-level benchmark (GeoFlood-275) constructed to develop and evaluate geographically conditioned flood mapping; and an upcoming online flood monitoring platform that will provide an accessible interface for applying GeoFloodNet to user-defined areas of interest.
+- **Introduction**: GeoFloodNet rethinks rapid flood mapping as a geographically conditioned cross-modal inference problem. Instead of treating optical–SAR differences as universal flood cues, it interprets flood evidence under local terrain and land-cover context, enabling more reliable event-induced inundation mapping across diverse geographic environments. This project presents GeoFloodNet, a geographically conditioned optical–SAR fusion framework, and GeoFlood-275, a global event-level benchmark for evaluating transferable flood mapping models. An online flood monitoring platform powered by GeoFloodNet is coming soon, allowing users to upload custom AOIs, select monitoring periods, run flood extraction online, and download inundation results.
 - **Key words**: Rapid flood mapping, remote sensing, global transferability, Sentinel-1/Sentinel-2
 </div>
 </div>
