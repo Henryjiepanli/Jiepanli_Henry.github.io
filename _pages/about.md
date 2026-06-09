@@ -106,7 +106,7 @@ Toward Rapid Flood Mapping Anywhere via Geographically Conditioned Cross-modal I
  
 Submitted to Remote Sensing of Environment(**RSE**), 2026.  [**Code**](https://github.com/Henryjiepanli/GeoFlood-275/tree/main)
 
-- **Introduction**: GeoFloodNet rethinks rapid flood mapping as a geographically conditioned cross-modal inference problem. Instead of treating optical–SAR differences as universal flood cues, it interprets flood evidence under local terrain and land-cover context, enabling more reliable event-induced inundation mapping across diverse geographic environments. This project presents GeoFloodNet, a geographically conditioned optical–SAR fusion framework, and GeoFlood-275, a global event-level benchmark for evaluating transferable flood mapping models. 
+- **Introduction**: GeoFloodNet rethinks rapid flood mapping as a geographically conditioned cross-modal inference problem. Instead of treating optical–SAR differences as universal flood cues, it interprets flood evidence under local terrain and land-cover context, enabling more reliable event-induced inundation mapping across diverse geographic environments. 
 - **Key words**: Rapid flood mapping, remote sensing, global transferability, Sentinel-1/Sentinel-2
 </div>
 </div>
