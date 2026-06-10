@@ -236,6 +236,17 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 
 
 # 🎖 Contests
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2026 CVPR BRIGHT Challenge</div><img src='images/CVPR2026_BRIGHT.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[We ranked first in the CVPR 2026 BRIGHT Challenge（champion）](https://chrx97.com/challenge.html)
+
+- **Introduction:** The BRIGHT Challenge invites participants to develop methods for instance-level building damage mapping using the BRIGHT dataset, a globally distributed multimodal benchmark featuring paired very-high-resolution (VHR) optical and synthetic aperture radar (SAR) imagery collected after real-world disaster events. 
+
+- **Key words:** SAR, Optical, Building damage mapping
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025 IEEE GRSS Data Fusion Contest Track 2</div><img src='images/DFC25.jpg' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
