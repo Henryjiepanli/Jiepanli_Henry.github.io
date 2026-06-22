@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student (2020 - now) at State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University. I received B.S. degree from School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am now a member of EVA group, advised by Prof. Wei He, Prof. Hongyan Zhang, and Prof. Liangpei Zhang. **I am currently focusing my research on disaster studies, exploring solutions through large vision-language models**. I will join LIESMARS as a Hongyi Postdoctoral Fellow in July 2026.
+I joined the State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (LIESMARS), Wuhan University, as a Hongyi Postdoctoral Fellow in June 2026. My current research focuses on disaster studies, with an emphasis on exploring solutions through large vision-language models. I received my Ph.D. degree from LIESMARS, Wuhan University, Wuhan, China, and my B.S. degree from the School of Electronic Information, Wuhan University, Wuhan, China, in 2020. I am currently a member of the EVA Group, advised by Prof. Liangpei Zhang (张良培) and Prof. Wei He（贺威）.
+
 
 # 📝 Selected Publications 
 
