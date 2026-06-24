@@ -348,6 +348,9 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 </div>
 
 # 🧑‍🎓Awards and Honors
+- 2026 — Champion, CVPR 2026 BRIGHT Challenge
+2026 年 CVPR BRIGHT 挑战赛冠军
+  
 - 2025 — Top 10 Luojia Students of the Year, Wuhan University
 武汉大学十大珞珈风云学子
 
@@ -368,9 +371,6 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 
 - 2025 — Gold Medal (Hubei Province), China International College Students’ Innovation Competition
 中国国际大学生创新大赛 湖北省金奖
-
-- 2026 — Champion, CVPR 2026 BRIGHT Challenge
-2026 年 CVPR BRIGHT 挑战赛冠军
 
 - 2025 — Champion, IEEE GRSS Data Fusion Contest (Track 2)
 2025 年 IEEE GRSS 全球数据融合大赛（赛道二）冠军
