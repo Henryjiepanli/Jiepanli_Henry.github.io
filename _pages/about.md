@@ -105,7 +105,7 @@ Toward Rapid Flood Mapping Anywhere via Terrain- and Land-Cover-Conditioned Opti
 
 **Jiepan Li**, He Huang, Wenke Li, Linxin Li, Anqi Xie, Ruoru Ye, Lei Hu, Ting Hu, Wei He, and Liangpei Zhang
  
-Submitted to Remote Sensing of Environment(**RSE**), 2026.  [**Code**](https://github.com/Henryjiepanli/GeoFlood-275/tree/main)
+Submitted to Remote Sensing of Environment(**RSE**), 2026.  
 
 [**Code**](https://github.com/Henryjiepanli/GeoFlood-275) [**Data**](https://huggingface.co/datasets/jiepanli/GeoFlood-275)
 
