@@ -101,13 +101,15 @@ Conference on Computer Vision and Pattern Recognition (CVPR2024, Highlight) (**C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Rapid Flood Mapping</div><img src='images/ai-geoflood.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Toward Rapid Flood Mapping Anywhere via Geographically Conditioned Cross-modal Inference
+Toward Rapid Flood Mapping Anywhere via Terrain- and Land-Cover-Conditioned Optical–SAR Fusion
 
 **Jiepan Li**, He Huang, Wenke Li, Linxin Li, Anqi Xie, Ruoru Ye, Lei Hu, Ting Hu, Wei He, and Liangpei Zhang
  
 Submitted to Remote Sensing of Environment(**RSE**), 2026.  [**Code**](https://github.com/Henryjiepanli/GeoFlood-275/tree/main)
 
-- **Introduction**: GeoFloodNet rethinks rapid flood mapping as a geographically conditioned cross-modal inference problem. Instead of treating optical–SAR differences as universal flood cues, it interprets flood evidence under local terrain and land-cover context, enabling more reliable event-induced inundation mapping across diverse geographic environments. 
+[**Code**](https://github.com/Henryjiepanli/GeoFlood-275) [**Data**](https://huggingface.co/datasets/jiepanli/GeoFlood-275)
+
+- **Introduction**:To answer whether observed optical–SAR evidence indicates flooding within local terrain and land-cover contexts, we introduce GeoFlood-275, a global, event-level benchmark for terrain- and land-cover-conditioned rapid flood inundation mapping. Additionally, we propose GeoFloodNet, a novel optical–SAR fusion framework tailored for context-aware rapid flood mapping.
 - **Key words**: Rapid flood mapping, remote sensing, global transferability, Sentinel-1/Sentinel-2
 </div>
 </div>
