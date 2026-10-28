@@ -393,6 +393,10 @@ In this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNe
 - 2024 — Huawei Scholarship, Wuhan University
 2024年武汉大学华为奖学金
 
+# 🧧Funding
+- 2026 — Hubei Province Postdoctoral Top-notch Talent Recruitment Program
+  [2026年湖北省博士后尖端人才引进项目](https://news.sciencenet.cn/htmlnews/2026/10/573327.shtm)
+
 
 # 🐅Academic Service
 - **Reviewer (Conference)**: NeurIPS, Conference on Computer Vision and Pattern Recognition (CVPR), ACMMM, AAAI
