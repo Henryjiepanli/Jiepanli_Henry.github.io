@@ -1,0 +1,232 @@
+[
+  {
+    "id": 0,
+    "title": "Toward Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation",
+    "paper": "https://ieeexplore.ieee.org/document/11175179",
+    "authors": "Jiepan Li, Wei He, Fangxiao Lu, Hongyan Zhang",
+    "venue": "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2025.",
+    "year": "2025",
+    "status": "Published",
+    "category": "Learning",
+    "image": "images/owinca.png",
+    "intro": "A new unified dual-branch decoder paradigm named the difference-aware decoder is proposed in this paper to explore the difference between the foreground and the background and separate the objects of interest in optical images.",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/Henryjiepanli/DAD"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "title": "Progressive Uncertainty-Guided Network for Binary Segmentation in High-Resolution Remote Sensing Imagery",
+    "paper": "https://doi.org/10.1016/j.isprsjprs.2026.01.010",
+    "authors": "Jiepan Li, Wei He, Ting Hu, Minghao Tang, Liangpei Zhang",
+    "venue": "ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2026.",
+    "year": "2026",
+    "status": "Published",
+    "category": "Learning",
+    "image": "images/pugnet.png",
+    "intro": "The core insight of PUGNet is a novel tripartite decomposition of uncertainty into three complementary components: foreground uncertainty (arising from ambiguous object regions), background uncertainty (linked to cluttered or low-contrast nontarget areas), and contextual uncertainty (centered around object boundaries and transition zones).",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/Henryjiepanli/PU_RS"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "UANet: an Uncertainty-Aware Network for Building Extraction from Remote Sensing Images",
+    "paper": "https://ieeexplore.ieee.org/document/10418227",
+    "authors": "Jiepan Li, Wei He, Weinan Cao, Liangpei Zhang, Hongyan Zhang",
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024.",
+    "year": "2024",
+    "status": "Published",
+    "category": "Learning",
+    "image": "images/UANet_visual.png",
+    "intro": "In this paper, we realize the importance of uncertain prediction and propose a novel and straightforward Uncertainty-Aware Network (UANet) to alleviate this problem.",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/Henryjiepanli/Uncertainty-aware-Network"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "A Comprehensive Deep-Learning Framework for Fine-Grained Farmland Mapping from High-Resolution Images",
+    "paper": "https://ieeexplore.ieee.org/document/10793088",
+    "authors": "Jiepan Li, Yipan Wei, Tiangao Wei, Wei He.",
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2025.",
+    "year": "2025",
+    "status": "Published",
+    "category": "Earth Observation",
+    "image": "images/CROP.png",
+    "intro": "A comprehensive farmland mapping framework that integrates advanced data, methodology, and cartographic techniques.",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/Henryjiepanli/DBBANet"
+      },
+      {
+        "label": "Dataset",
+        "url": "https://pan.baidu.com/s/1kdGAowJ2Dcqyn-dUQWLHJA?pwd=FGFD"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Learning Without Exact Guidance: Updating Large-scale High-resolution Land Cover Maps from Low-resolution Historical Labels",
+    "paper": "https://arxiv.org/html/2403.02746v1",
+    "authors": "Zhuohong Li, Wei He, Jiepan Li, Fangxiao Lu, Hongyan Zhang",
+    "venue": "CVPR",
+    "year": "2024",
+    "status": "Published",
+    "category": "Earth Observation",
+    "image": "images/CVPR.png",
+    "intro": "In this paper, we propose an efficient, weakly supervised framework (Paraformer) to guide large-scale HR land-cover mapping with easy-access historical land-cover data of low resolution (LR).",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/LiZhuoHong/Paraformer/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Toward Rapid Flood Mapping Anywhere via Terrain- and Land-Cover-Conditioned Optical–SAR Fusion",
+    "paper": "",
+    "authors": "Jiepan Li, He Huang, Wenke Li, Linxin Li, Anqi Xie, Ruoru Ye, Lei Hu, Ting Hu, Wei He, and Liangpei Zhang",
+    "venue": "Remote Sensing of Environment (RSE)",
+    "year": "2026",
+    "status": "Under Revision",
+    "category": "Disasters",
+    "image": "images/ai-geoflood.png",
+    "intro": "To answer whether observed optical–SAR evidence indicates flooding within local terrain and land-cover contexts, we introduce GeoFlood-275, a global, event-level benchmark for terrain- and land-cover-conditioned rapid flood inundation mapping. Additionally, we propose GeoFloodNet, a novel optical–SAR fusion framework tailored for context-aware rapid flood mapping.",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/Henryjiepanli/GeoFlood-275"
+      },
+      {
+        "label": "Dataset",
+        "url": "https://huggingface.co/datasets/jiepanli/GeoFlood-275"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Overcoming the Uncertainty Challenges in Detecting Building Changes from Remote Sensing Images",
+    "paper": "https://www.sciencedirect.com/science/article/pii/S092427162400426X",
+    "authors": "Jiepan Li, Wei He, Zhuohong Li, Yujun Guo, Hongyan Zhang",
+    "venue": "ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS), 2025.",
+    "year": "2025",
+    "status": "Published",
+    "category": "Earth Observation",
+    "image": "images/UA-BCD.png",
+    "intro": "To address the uncertainty challenges in building change detection, we present an Uncertainty-Aware Building Change Detection (UA-BCD) framework. In addition to conducting extensive experiments on five publicly available building change datasets, we have also implemented an application in Dongxihu District, Wuhan, China, which confirms the outstanding performance of the proposed method in large-scale building change detection.",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/Henryjiepanli/UA-BCD"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Multimodal Semantic Segmentation in Yangtze River Economic Belt: Outcome of the 2024 IEEE WHISPERS MMSeg-YREB Challenge",
+    "paper": "https://ieeexplore.ieee.org/document/11052626",
+    "authors": "Jiepan Li, He Huang, et al.",
+    "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2025.",
+    "year": "2025",
+    "status": "Published",
+    "category": "Earth Observation",
+    "image": "images/whispers_jstar.png",
+    "intro": "In this paper, we provide a comprehensive overview of the MMSeg-YREB challenge, detailing the methodological designs of the Top 3 solutions and making available an open-source codebase for their implementations, along with the multimodal semantic segmentation dataset.",
+    "links": []
+  },
+  {
+    "id": 8,
+    "title": "Rapid Flood Mapping: Outcome of the 2024 IEEE GRSS Data Fusion Contest",
+    "paper": "https://ieeexplore.ieee.org/document/11344735/",
+    "authors": "Jiepan Li, He Huang, et al.",
+    "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS), 2026.",
+    "year": "2026",
+    "status": "Published",
+    "category": "Disasters",
+    "image": "images/dfc_2024_jstar.png",
+    "intro": "This article presents the scientific outcomes of the 2024 Data Fusion Contest (DFC24) organized by the Image Analysis and Data Fusion Technical Committee (IADF TC) of the IEEE Geoscience and Remote Sensing Society (GRSS), the Space for Climate Observatory (SCO), the Centre national d’etudes spatiales (CNES), the National Aeronautics and Space Administration (NASA), and the Centre Européen de Recherche et de Formation Avancée et Calcul Scientifique (CERFACS).",
+    "links": []
+  },
+  {
+    "id": 9,
+    "title": "灾前建筑物掩码引导的航天遥感建筑物受损变化检测方法(Pre-Disaster Building Footprint–Guided Satellite Remote Sensing Building Damage Change Detection)",
+    "paper": "https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2025.32845",
+    "authors": "Jiepan Li, Wei He, Minghao Tang, Jin Xiong",
+    "venue": "Acta Aeronautica et Astronautica Sinica",
+    "year": "",
+    "status": "Published",
+    "category": "Disasters",
+    "image": "images/hkxb.png",
+    "intro": "To address the challenges of geometric misalignment, background interference, and feature alignment difficulties in multi-temporal and cross-modal remote sensing imagery, we propose a Pre-Disaster Footprint–Guided Change-Aware Damage Detection Network (PDF-Net).",
+    "links": []
+  },
+  {
+    "id": 10,
+    "title": "Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping",
+    "paper": "https://ieeexplore.ieee.org/document/11243835",
+    "authors": "Jiepan Li, He Huang. Yu Sheng, Yujun Guo, Wei He",
+    "venue": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2025 (Oral)",
+    "year": "2025",
+    "status": "Published",
+    "category": "Disasters",
+    "image": "images/BGLU.png",
+    "intro": "This study proposes a novel Building-Guided Pseudo-Label Learning Framework to address the challenges of mapping building damage from pre-disaster optical and post-disaster SAR images. Experimental results on the 2025 IEEE GRSS Data Fusion Contest dataset demonstrate the effectiveness of our approach, which achieved the highest mIoU score (54.28%) and secured first place in the competition.",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Fusion of Multiple Models with Multi-Modal Datasets: Land Cover Mapping in the Yangtze River Economic Belt",
+    "paper": "https://ieeexplore.ieee.org/document/10876418",
+    "authors": "Jiepan Li, He Huang, Yu Xia",
+    "venue": "IEEE Workshop on Hyperspectral Image and Signal Processing (WHISPERS), 2024 (Oral)",
+    "year": "2024",
+    "status": "Published",
+    "category": "Earth Observation",
+    "image": "images/whisper.png",
+    "intro": "The 2024 IEEE Whisper contest, MMSeg-YREB, aims to integrate multi-modal data, specifically Sentinel-1 and Sentinel-2, to conduct a detailed analysis of land cover types\nand their changes within the Yangtze River Economic Belt.",
+    "links": []
+  },
+  {
+    "id": 12,
+    "title": "Overcoming the Uncertainty Challenges in Flood Rapid Mapping with SAR Data",
+    "paper": "https://ieeexplore.ieee.org/document/10641026",
+    "authors": "He Huang, Jiepan Li, Wei He, Hongyan Zhang, Liangpei Zhang",
+    "venue": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)",
+    "year": "2024",
+    "status": "Published",
+    "category": "Disasters",
+    "image": "images/IGARSS_track_1.png",
+    "intro": "The 2024 IEEE GRSS Data Fusion Contest Track 1 is centered on leveraging multi-source remote sensing data, particularly synthetic aperture radar (SAR) data,\n to classify flood and non-flood areas. In this contest, we acknowledge the significance of managing uncertain predictions and present an efficient Uncertainty-Aware Fusion Network (UAFNet).",
+    "links": []
+  },
+  {
+    "id": 13,
+    "title": "Overcoming the Uncertainty Challenges in Flood Rapid Mapping with Multi-Source Optical Data",
+    "paper": "https://ieeexplore.ieee.org/document/10641074",
+    "authors": "Jiepan Li, He Huang, Wei He, Hongyan Zhang, Liangpei Zhang",
+    "venue": "IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2024 (Oral)",
+    "year": "2024",
+    "status": "Published",
+    "category": "Disasters",
+    "image": "images/IGARSS_track_2.png",
+    "intro": "The 2024 IEEE GRSS Data Fusion Contest Track 2 aims to pioneer innovative algorithms for accurate flood extraction using multi-source optical remote sensing (RS) data.\nIn this paper, we propose an Uncertainty-aware Detail-Preserving Network (UADPNet) for rapid flood mapping of multi-source optical data.",
+    "links": []
+  }
+]
