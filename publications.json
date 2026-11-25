@@ -1,5 +1,23 @@
 [
   {
+    "id": 14,
+    "title": "Beyond Static Semantics: Instance-Adaptive Vision-Language Alignment for Building Damage Assessment",
+    "paper": "https://arxiv.org/pdf/2611.32777",
+    "authors": "Hang Yin, Jiepan Li (Corresponding Author), Hongruixuan Chen, Guangyi Yang, Wei He",
+    "venue": "arXiv:2611.32777, 2026.",
+    "year": "2026",
+    "status": "Preprint",
+    "category": "Disasters",
+    "image": "https://arxiv.org/html/2611.32777v1#S2.F2",
+    "intro": "Buildings with the same damage grade can show very different signs of damage. LAMIA-IBDA adapts natural-language damage descriptions to local evidence from before-and-after imagery, then turns them into building-specific references for distinguishing damage levels.",
+    "links": [
+      {
+        "label": "Code",
+        "url": "https://github.com/Cutensil/LAMIA-IBDA"
+      }
+    ]
+  },
+  {
     "id": 0,
     "title": "Toward Complex Backgrounds: A Unified Difference-Aware Decoder for Binary Segmentation",
     "paper": "https://ieeexplore.ieee.org/document/11175179",
